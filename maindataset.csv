@@ -1,0 +1,1001 @@
+id,crawled_at,season,brand,category,selling price,average rating,title
+1,1/7/2023,Winter,BrandA,Clothing,75,3.5,Solid Men Round Neck Yellow T-Shirt
+2,5/6/2023,Summer,BrandC,Clothing,150,4,Men Regular Fit Solid Casual Shirt
+3,3/26/2023,Spring,BrandB,Clothing,120,4.5,Men Regular Fit Solid Slim Collar Casual Shirt
+4,3/2/2023,Fall,BrandC,Clothing,100,3.5,Men Regular Fit Solid Spread Collar Casual Shirt
+5,6/3/2023,Winter,BrandC,Clothing,150,4.5,Men Regular Fit Washed Mandarin Collar Casual Shirt
+6,1/21/2023,Summer,BrandB,Clothing,160,3.5,Men Regular Fit Washed Button Down Collar Casual Shirt
+7,12/2/2023,Spring,BrandC,Clothing,140,3.5,Men Regular Fit Solid Casual Shirt
+8,1/27/2023,Fall,BrandB,Clothing,75,3.5,Men Regular Fit Solid Slim Collar Casual Shirt
+9,9/28/2023,Winter,BrandB,Clothing,150,4,Men Regular Fit Solid Mandarin Collar Casual Shirt
+10,8/15/2023,Summer,BrandA,Clothing,60,4.7,Men Regular Fit Solid Button Down Collar Casual Shirt
+11,8/11/2023,Spring,BrandC,Clothing,75,4.5,Men Regular Fit Solid Slim Collar Casual Shirt
+12,6/3/2023,Fall,BrandB,Clothing,90,4,"Solid Men Round Neck Maroon, Yellow T-Shirt  (Pack of 2)"
+13,5/12/2023,Winter,BrandA,Clothing,110,4,Men Regular Fit Solid Spread Collar Casual Shirt
+14,1/3/2023,Summer,BrandA,Clothing,120,3.5,"Solid, Color Block Men Round Neck Maroon T-Shirt"
+15,8/31/2023,Spring,BrandC,Clothing,150,4,"Solid, Color Block Men Round Neck Maroon T-Shirt"
+16,3/19/2023,Fall,BrandC,Clothing,110,3.5,Men Regular Fit Solid Casual Shirt
+17,10/24/2023,Winter,BrandA,Clothing,60,3.5,Men Regular Fit Washed Slim Collar Casual Shirt
+18,8/31/2023,Summer,BrandC,Clothing,130,4,Men Regular Fit Washed Mandarin Collar Casual Shirt
+19,10/9/2023,Spring,BrandB,Clothing,75,4.7,Men Slim Fit Self Design Slim Collar Casual Shirt
+20,5/31/2023,Fall,BrandC,Clothing,130,4.5,Men Regular Fit Washed Spread Collar Casual Shirt
+21,9/23/2023,Winter,BrandA,Clothing,160,4,Men Regular Fit Washed Spread Collar Casual Shirt
+22,11/3/2023,Summer,BrandC,Clothing,150,4.7,"Solid Men Round Neck Black, Yellow T-Shirt  (Pack of 2)"
+23,5/17/2023,Spring,BrandC,Clothing,90,4,Men Regular Fit Solid Casual Shirt
+24,1/13/2023,Fall,BrandC,Clothing,150,4,Men Regular Fit Solid Spread Collar Casual Shirt
+25,2/19/2023,Winter,BrandB,Clothing,60,4.5,Men Regular Fit Solid Slim Collar Casual Shirt
+26,5/6/2023,Summer,BrandA,Clothing,130,4.5,Men Regular Fit Washed Spread Collar Casual Shirt
+27,12/14/2023,Spring,BrandA,Clothing,140,4.5,Men Regular Fit Solid Spread Collar Casual Shirt
+28,9/3/2023,Fall,BrandB,Clothing,150,4.7,Men Regular Fit Solid Casual Shirt
+29,8/31/2023,Winter,BrandC,Clothing,60,4.7,Men Regular Fit Solid Hood Collar Casual Shirt
+30,4/6/2023,Summer,BrandB,Clothing,60,4.7,Men Regular Fit Washed Slim Collar Casual Shirt
+31,12/3/2023,Spring,BrandB,Clothing,75,4.5,Men Regular Fit Solid Spread Collar Casual Shirt  (Pack of 2)
+32,7/20/2023,Fall,BrandB,Clothing,160,4.5,Men Regular Fit Solid Spread Collar Casual Shirt  (Pack of 2)
+33,9/28/2023,Winter,BrandA,Clothing,120,4,Men Regular Fit Solid Spread Collar Casual Shirt  (Pack of 2)
+34,10/23/2023,Summer,BrandA,Clothing,130,4.5,Men Slim Fit Solid Mandarin Collar Casual Shirt
+35,6/25/2023,Spring,BrandC,Clothing,150,4.7,Men Super Slim Fit Solid Button Down Collar Casual Shirt
+36,1/24/2023,Fall,BrandB,Clothing,150,4,Men Slim Fit Solid Ruffle Collar Collar Casual Shirt
+37,11/8/2023,Winter,BrandB,Clothing,60,4,Men Regular Fit Solid Spread Collar Casual Shirt  (Pack of 2)
+38,2/3/2023,Summer,BrandB,Clothing,160,4,Men Regular Fit Solid Spread Collar Casual Shirt  (Pack of 2)
+39,8/30/2023,Spring,BrandC,Clothing,75,3.5,Men Slim Fit Solid Spread Collar Casual Shirt
+40,1/3/2023,Fall,BrandC,Clothing,75,4.7,Men Regular Fit Solid Spread Collar Casual Shirt  (Pack of 2)
+41,10/31/2023,Winter,BrandC,Clothing,140,3.5,Men Slim Fit Solid Mandarin Collar Casual Shirt
+42,9/19/2023,Summer,BrandC,Clothing,120,4,Men Regular Fit Solid Button Down Collar Casual Shirt  (Pack of 2)
+43,9/11/2023,Spring,BrandA,Clothing,130,3.5,Men Slim Fit Solid Mandarin Collar Casual Shirt
+44,10/29/2023,Fall,BrandB,Clothing,150,4.7,Men Regular Fit Solid Spread Collar Casual Shirt  (Pack of 2)
+45,2/28/2023,Winter,BrandA,Clothing,100,3.5,Men Slim Fit Solid Button Down Collar Casual Shirt
+46,11/18/2023,Summer,BrandB,Clothing,100,4.5,Men Slim Fit Solid Spread Collar Casual Shirt
+47,10/27/2023,Spring,BrandB,Clothing,90,4.5,Men Regular Fit Solid Spread Collar Casual Shirt  (Pack of 2)
+48,12/18/2023,Fall,BrandB,Clothing,150,4.7,Men Regular Fit Solid Button Down Collar Casual Shirt  (Pack of 2)
+49,12/3/2023,Winter,BrandA,Clothing,120,4.7,Men Regular Fit Solid Spread Collar Casual Shirt  (Pack of 2)
+50,10/7/2023,Summer,BrandA,Clothing,110,3.5,Men Regular Fit Solid Spread Collar Casual Shirt  (Pack of 2)
+51,2/20/2023,Spring,BrandA,Clothing,90,4.5,Men Super Slim Fit Solid Button Down Collar Casual Shirt
+52,2/14/2023,Fall,BrandC,Clothing,60,4,Men Regular Fit Solid Spread Collar Casual Shirt  (Pack of 2)
+53,9/19/2023,Winter,BrandC,Clothing,100,4.7,Men Regular Fit Solid Spread Collar Casual Shirt  (Pack of 2)
+54,2/13/2023,Summer,BrandB,Clothing,100,4.5,Men Regular Fit Solid Button Down Collar Casual Shirt  (Pack of 2)
+55,4/28/2023,Spring,BrandB,Clothing,80,4,Men Regular Fit Solid Button Down Collar Casual Shirt  (Pack of 2)
+56,10/22/2023,Fall,BrandC,Clothing,160,4,Men Regular Fit Solid Spread Collar Casual Shirt  (Pack of 2)
+57,12/14/2023,Winter,BrandC,Clothing,60,4.5,Men Regular Fit Solid Spread Collar Casual Shirt  (Pack of 2)
+58,6/30/2023,Summer,BrandA,Clothing,160,4,Men Regular Fit Solid Spread Collar Casual Shirt  (Pack of 2)
+59,3/21/2023,Spring,BrandC,Clothing,140,4,Men Regular Fit Solid Button Down Collar Casual Shirt  (Pack of 2)
+60,12/11/2023,Fall,BrandB,Clothing,110,4.7,Men Regular Fit Solid Spread Collar Casual Shirt  (Pack of 2)
+61,10/22/2023,Winter,BrandB,Clothing,130,4.5,Solid Men's skull Cap  (Pack of 3)
+62,6/14/2023,Summer,BrandB,Clothing,60,4,Military Camouflage Men Round Neck Grey T-Shirt
+63,3/31/2023,Spring,BrandB,Clothing,120,4.7,"Solid Men Black, Grey Track Pants"
+64,12/21/2023,Fall,BrandC,Clothing,90,4,Solid Men Grey Track Pants
+65,11/16/2023,Winter,BrandB,Clothing,120,3.5,Solid Men Black Track Pants
+66,6/10/2023,Summer,BrandB,Clothing,80,4.7,Solid Men Dark Blue Track Pants
+67,4/24/2023,Spring,BrandC,Clothing,120,4,Military Camouflage Men Round Neck Green T-Shirt
+68,9/4/2023,Fall,BrandC,Clothing,140,4.7,Solid Men Grey Track Pants
+69,6/13/2023,Winter,BrandB,Clothing,110,4.7,"Military Camouflage Men Round Neck Green, Black T-Shirt"
+70,5/20/2023,Summer,BrandA,Clothing,120,4.7,Printed Men Round Neck Green T-Shirt
+71,2/13/2023,Spring,BrandA,Clothing,110,4.5,Solid Men Black Track Pants
+72,5/7/2023,Fall,BrandA,Clothing,110,4.5,Solid Men Blue Track Pants
+73,5/15/2023,Winter,BrandC,Clothing,100,4.7,Men Kurta and Churidar Set Cotton Blend
+74,12/27/2023,Summer,BrandC,Clothing,60,3.5,Men Kurta and Churidar Set Cotton Blend
+75,7/14/2023,Spring,BrandB,Clothing,60,4,Men Kurta and Churidar Set Cotton Blend
+76,2/22/2023,Fall,BrandB,Clothing,110,4.7,Printed Men Three Fourths
+77,7/19/2023,Winter,BrandA,Clothing,80,3.5,Sleeveless Solid Men Ethnic Jacket
+78,4/8/2023,Summer,BrandA,Clothing,60,4,Men Kurta and Churidar Set Cotton Blend
+79,10/31/2023,Spring,BrandC,Clothing,120,4,Men Kurta and Churidar Set Cotton Blend
+80,10/16/2023,Fall,BrandC,Clothing,110,4.7,Men Kurta and Churidar Set Cotton Blend
+81,12/11/2023,Winter,BrandB,Clothing,130,4.7,Men Kurta and Churidar Set Cotton Blend
+82,2/23/2023,Summer,BrandC,Clothing,110,4.7,Printed Men Three Fourths
+83,2/9/2023,Spring,BrandC,Clothing,120,4.7,Solid Single Breasted Casual Men Full Sleeve Blazer  (Dark Blue)
+84,12/17/2023,Fall,BrandA,Clothing,75,4.5,Men Kurta and Churidar Set Cotton Blend
+85,11/11/2023,Winter,BrandC,Clothing,110,4.5,Men Kurta and Churidar Set Cotton Blend
+86,3/13/2023,Summer,BrandB,Clothing,80,4.5,Sleeveless Solid Men Ethnic Jacket
+87,7/12/2023,Spring,BrandA,Clothing,140,4.7,Men Kurta and Churidar Set Cotton Blend
+88,1/2/2023,Fall,BrandA,Clothing,120,3.5,Printed Men Three Fourths
+89,3/27/2023,Winter,BrandC,Clothing,75,4.5,Sleeveless Solid Men Ethnic Jacket
+90,9/13/2023,Summer,BrandB,Clothing,140,3.5,Solid Single Breasted Casual Men Full Sleeve Blazer  (Black)
+91,8/9/2023,Spring,BrandB,Clothing,140,4.5,Printed Men Three Fourths
+92,2/18/2023,Fall,BrandC,Clothing,75,4,Men Kurta and Churidar Set Cotton Blend
+93,11/23/2023,Winter,BrandB,Clothing,150,4.5,Solid Single Breasted Casual Men Full Sleeve Blazer  (Dark Blue)
+94,3/22/2023,Summer,BrandA,Clothing,160,4.5,Solid Single Breasted Casual Men Full Sleeve Blazer  (Black)
+95,8/24/2023,Spring,BrandB,Clothing,160,4.7,Men Kurta and Churidar Set Cotton Blend
+96,5/16/2023,Fall,BrandB,Clothing,140,4,Men Kurta and Churidar Set Cotton Blend
+97,10/25/2023,Winter,BrandC,Clothing,130,4.7,Men Kurta and Churidar Set Cotton Blend
+98,2/8/2023,Summer,BrandC,Clothing,90,4.5,Solid Single Breasted Casual Men Full Sleeve Blazer  (Dark Blue)
+99,7/17/2023,Spring,BrandC,Clothing,150,3.5,Men Kurta and Churidar Set Cotton Blend
+100,8/20/2023,Fall,BrandB,Clothing,110,4.5,Men Regular Fit Solid Slim Collar Casual Shirt
+101,9/6/2023,Winter,BrandB,Clothing,160,4.5,Men Regular Fit Solid Slim Collar Casual Shirt
+102,11/12/2023,Summer,BrandA,Clothing,100,4,Men Regular Fit Solid Slim Collar Casual Shirt
+103,2/1/2023,Spring,BrandC,Clothing,160,4,Men Regular Fit Solid Slim Collar Casual Shirt
+104,1/1/2023,Fall,BrandC,Clothing,60,4.5,Men Regular Fit Solid Slim Collar Casual Shirt
+105,5/21/2023,Winter,BrandC,Clothing,60,4.5,Men Regular Fit Solid Slim Collar Casual Shirt
+106,9/27/2023,Summer,BrandB,Clothing,160,4.7,Men Regular Fit Solid Slim Collar Casual Shirt
+107,9/7/2023,Spring,BrandB,Clothing,130,3.5,Men Regular Fit Solid Slim Collar Casual Shirt
+108,5/21/2023,Fall,BrandC,Clothing,90,4.5,Men Regular Fit Solid Slim Collar Casual Shirt
+109,12/25/2023,Winter,BrandC,Clothing,75,4,Men Regular Fit Solid Slim Collar Casual Shirt
+110,9/23/2023,Summer,BrandA,Clothing,60,4.5,Men Regular Fit Solid Slim Collar Casual Shirt
+111,4/7/2023,Spring,BrandB,Clothing,80,4,Men Regular Fit Solid Slim Collar Casual Shirt
+112,1/7/2023,Fall,BrandA,Clothing,90,3.5,Men Regular Fit Solid Slim Collar Casual Shirt
+113,4/9/2023,Winter,BrandA,Clothing,150,4.5,Men Regular Fit Solid Slim Collar Casual Shirt
+114,2/17/2023,Summer,BrandB,Clothing,150,3.5,Men Regular Fit Solid Slim Collar Casual Shirt
+115,3/30/2023,Spring,BrandA,Clothing,100,4.5,Men Solid Cotton Blend Straight Kurta  (Light Blue)
+116,11/1/2023,Fall,BrandC,Clothing,110,4.7,Men Solid Cotton Blend Straight Kurta  (Yellow)
+117,6/24/2023,Winter,BrandA,Clothing,100,4.5,Men Solid Cotton Blend Straight Kurta  (White)
+118,5/17/2023,Summer,BrandC,Clothing,110,4,Men Solid Cotton Blend Straight Kurta  (Beige)
+119,12/22/2023,Spring,BrandB,Clothing,75,4,Men Solid Cotton Blend Straight Kurta  (Pink)
+120,6/27/2023,Fall,BrandB,Clothing,60,4.7,Men Solid Cotton Blend Straight Kurta  (Pink)
+121,1/11/2023,Winter,BrandB,Clothing,60,4,Men Solid Cotton Blend Straight Kurta  (Dark Blue)
+122,12/16/2023,Summer,BrandB,Clothing,150,4.5,Men Solid Cotton Blend Straight Kurta  (Black)
+123,1/14/2023,Spring,BrandA,Clothing,120,4,Men Solid Cotton Blend Straight Kurta  (Light Green)
+124,11/15/2023,Fall,BrandA,Clothing,150,4.5,Men Solid Cotton Blend Straight Kurta  (Orange)
+125,1/10/2023,Winter,BrandB,Clothing,75,3.5,Men Solid Cotton Blend Straight Kurta  (Blue)
+126,12/26/2023,Summer,BrandB,Clothing,80,3.5,Men Solid Cotton Blend Straight Kurta  (Blue)
+127,11/20/2023,Spring,BrandA,Clothing,100,4,Men Solid Cotton Blend Straight Kurta  (Red)
+128,5/2/2023,Fall,BrandA,Clothing,90,4,Men Solid Cotton Blend Straight Kurta  (Light Blue)
+129,7/13/2023,Winter,BrandC,Clothing,60,4,Polycotton Solid Shirt Fabric  (Unstitched)
+130,8/17/2023,Summer,BrandB,Clothing,140,4.7,Synthetic Solid Suit Fabric  (Unstitched)
+131,7/9/2023,Spring,BrandB,Clothing,90,4,"Synthetic Self Design, Checkered Shirt & Trouser Fabric  (Unstitched)"
+132,11/5/2023,Fall,BrandB,Clothing,100,4,Synthetic Checkered Shirt & Trouser Fabric  (Unstitched)
+133,2/10/2023,Winter,BrandA,Clothing,110,4.7,"Polyester Checkered, Self Design Shirt & Trouser Fabric  (Unstitched)"
+134,10/14/2023,Summer,BrandA,Clothing,100,3.5,Poly Viscose Solid Trouser Fabric  (Unstitched)
+135,1/12/2023,Spring,BrandC,Clothing,130,4.7,Cotton Polyester Blend Solid Suit Fabric  (Unstitched)
+136,10/30/2023,Fall,BrandC,Clothing,130,3.5,Synthetic Solid Suit Fabric  (Unstitched)
+137,6/2/2023,Winter,BrandC,Clothing,140,3.5,Polycotton Solid Trouser Fabric  (Unstitched)
+138,5/10/2023,Summer,BrandB,Clothing,150,4.5,Synthetic Checkered Shirt & Trouser Fabric  (Unstitched)
+139,4/7/2023,Spring,BrandC,Clothing,60,4.7,Men Self Design Ankle Length  (Pack of 4)
+140,5/20/2023,Fall,BrandA,Clothing,80,4.5,Full Sleeve Solid Men Jacket
+141,9/11/2023,Winter,BrandB,Clothing,100,4,Full Sleeve Solid Men Jacket
+142,4/3/2023,Summer,BrandA,Clothing,60,4.7,Solid Men Round Neck Light Blue T-Shirt
+143,4/4/2023,Spring,BrandC,Clothing,80,3.5,Solid Men Round Neck Maroon T-Shirt
+144,11/6/2023,Fall,BrandA,Clothing,130,4.5,Solid Men Collared Neck Blue T-Shirt
+145,6/14/2023,Winter,BrandC,Clothing,100,4.7,Solid Men Collared Neck Light Blue T-Shirt
+146,2/7/2023,Summer,BrandC,Clothing,60,4.7,Solid Men s Maroon T-Shirt
+147,12/25/2023,Spring,BrandC,Clothing,60,3.5,"Color Block Men Polo Neck Dark Green, Grey T-Shirt"
+148,1/12/2023,Fall,BrandB,Clothing,60,4.5,Men Regular Fit Solid Casual Shirt
+149,3/28/2023,Winter,BrandA,Clothing,60,3.5,Striped Men Round Neck Blue T-Shirt
+150,3/23/2023,Summer,BrandA,Clothing,140,4.5,Solid Men Round Neck Red T-Shirt
+151,11/19/2023,Spring,BrandC,Clothing,150,3.5,"Striped Men Round Neck Maroon, Dark Blue T-Shirt"
+152,10/20/2023,Fall,BrandC,Clothing,110,3.5,Graphic Print Men Round Neck Blue T-Shirt
+153,2/12/2023,Winter,BrandC,Clothing,60,4,Graphic Print Men Round Neck Black T-Shirt
+154,10/11/2023,Summer,BrandB,Clothing,60,4.5,"Color Block Men Round Neck Orange, Dark Blue T-Shirt"
+155,6/6/2023,Spring,BrandB,Clothing,100,4.5,Solid Men Dark Blue Track Pants
+156,1/16/2023,Fall,BrandA,Clothing,150,4,Color Block Men Round Neck Pink T-Shirt
+157,1/5/2023,Winter,BrandA,Clothing,110,3.5,Solid Men Round Neck Dark Blue T-Shirt
+158,7/21/2023,Summer,BrandC,Clothing,140,4.7,Solid Men Round Neck Orange T-Shirt
+159,2/9/2023,Spring,BrandA,Clothing,80,4.5,"Color Block Men Polo Neck Maroon, Yellow, Grey T-Shirt"
+160,3/29/2023,Fall,BrandA,Clothing,140,4.7,"Color Block Men Polo Neck Dark Blue, Yellow, Beige T-Shirt"
+161,4/9/2023,Winter,BrandA,Clothing,60,3.5,Solid Men Polo Neck Black T-Shirt
+162,4/18/2023,Summer,BrandB,Clothing,90,4.5,Solid Men Collared Neck Pink T-Shirt
+163,10/29/2023,Spring,BrandC,Clothing,75,4.5,"Striped Men Polo Neck Grey, Dark Blue T-Shirt"
+164,8/6/2023,Fall,BrandA,Clothing,150,4,"Color Block Men Polo Neck Dark Green, Grey T-Shirt"
+165,12/3/2023,Winter,BrandC,Clothing,140,3.5,Solid Men V Neck Grey T-Shirt
+166,10/4/2023,Summer,BrandA,Clothing,150,4.5,"Color Block Men High Neck Black, Maroon T-Shirt"
+167,4/20/2023,Spring,BrandC,Clothing,150,4.7,"Color Block Men Polo Neck Dark Green, Grey T-Shirt"
+168,1/6/2023,Fall,BrandB,Clothing,80,4,Solid Men Round Neck Red T-Shirt
+169,3/31/2023,Winter,BrandA,Clothing,80,4.5,"Graphic Print, Printed Men Round Neck Light Blue T-Shirt"
+170,11/15/2023,Summer,BrandA,Clothing,110,4.7,Solid Men Collared Neck Light Blue T-Shirt
+171,4/23/2023,Spring,BrandC,Clothing,110,4.5,Solid Men Polo Neck Maroon T-Shirt
+172,2/12/2023,Fall,BrandB,Clothing,160,4.5,Men Slim Fit Checkered Casual Shirt
+173,4/12/2023,Winter,BrandB,Clothing,60,4.7,Men Slim Fit Checkered Casual Shirt
+174,9/18/2023,Summer,BrandB,Clothing,130,4,Men Slim Fit Striped Casual Shirt
+175,8/4/2023,Spring,BrandB,Clothing,60,3.5,Men Slim Fit Checkered Casual Shirt
+176,1/7/2023,Fall,BrandA,Clothing,120,4.7,Men Slim Fit Checkered Slim Collar Casual Shirt
+177,6/25/2023,Winter,BrandC,Clothing,130,4,Men Slim Fit Solid Casual Shirt
+178,11/9/2023,Summer,BrandC,Clothing,130,4.7,Men Slim Fit Striped Spread Collar Casual Shirt
+179,4/9/2023,Spring,BrandA,Clothing,120,4.7,Men Slim Fit Checkered Spread Collar Casual Shirt
+180,4/2/2023,Fall,BrandC,Clothing,120,4.7,Men Slim Fit Solid Casual Shirt
+181,6/16/2023,Winter,BrandB,Clothing,120,4,Men Slim Fit Striped Casual Shirt
+182,4/28/2023,Summer,BrandA,Clothing,90,4.7,Men Slim Fit Solid Casual Shirt
+183,8/24/2023,Spring,BrandB,Clothing,160,4.5,Men Slim Fit Checkered Casual Shirt
+184,11/5/2023,Fall,BrandA,Clothing,110,3.5,Men Slim Fit Checkered Casual Shirt
+185,12/9/2023,Winter,BrandB,Clothing,130,3.5,Men Slim Fit Striped Casual Shirt
+186,6/28/2023,Summer,BrandA,Clothing,130,4,Men Slim Fit Checkered Casual Shirt
+187,7/20/2023,Spring,BrandA,Clothing,130,4.5,Men Slim Fit Checkered Casual Shirt
+188,5/26/2023,Fall,BrandA,Clothing,160,4.5,Men Slim Fit Checkered Casual Shirt
+189,1/6/2023,Winter,BrandA,Clothing,80,4,Men Slim Fit Checkered Casual Shirt
+190,10/14/2023,Summer,BrandC,Clothing,75,4.5,Men Slim Fit Solid Casual Shirt
+191,4/30/2023,Spring,BrandB,Clothing,90,4.7,Men Slim Fit Checkered Spread Collar Casual Shirt
+192,5/28/2023,Fall,BrandA,Clothing,110,4.7,Men Slim Fit Checkered Casual Shirt
+193,9/14/2023,Winter,BrandA,Clothing,100,4.5,Men Slim Fit Checkered Spread Collar Casual Shirt
+194,4/7/2023,Summer,BrandA,Clothing,90,4.7,Men Slim Fit Solid Casual Shirt
+195,8/4/2023,Spring,BrandC,Clothing,90,4,Men Slim Fit Checkered Casual Shirt
+196,7/3/2023,Fall,BrandA,Clothing,75,4,Men Slim Fit Checkered Casual Shirt
+197,7/12/2023,Winter,BrandA,Clothing,160,4,Men Slim Fit Checkered Casual Shirt
+198,8/14/2023,Summer,BrandC,Clothing,150,4.5,Men Slim Fit Striped Casual Shirt
+199,7/25/2023,Spring,BrandC,Clothing,110,3.5,Men Slim Fit Checkered Casual Shirt
+200,4/13/2023,Fall,BrandA,Clothing,140,4.5,Men Slim Fit Checkered Casual Shirt
+201,5/16/2023,Winter,BrandA,Clothing,60,4.5,Men Slim Fit Checkered Cut Away Collar Casual Shirt
+202,10/5/2023,Summer,BrandC,Clothing,160,4.7,Printed Men Round Neck Grey T-Shirt
+203,10/17/2023,Spring,BrandC,Clothing,90,4,Self Design Men Polo Neck Blue T-Shirt
+204,8/1/2023,Fall,BrandC,Clothing,130,4.5,Printed Men Round Neck Grey T-Shirt
+205,6/13/2023,Winter,BrandA,Clothing,120,3.5,Self Design Men Polo Neck Light Blue T-Shirt
+206,3/4/2023,Summer,BrandB,Clothing,75,4,Full Sleeve Self Design Men Sweatshirt
+207,6/16/2023,Spring,BrandA,Clothing,90,4.7,Solid Men Round Neck Black T-Shirt
+208,4/11/2023,Fall,BrandC,Clothing,100,4.7,Printed Men Round Neck Yellow T-Shirt
+209,9/16/2023,Winter,BrandA,Clothing,120,4.5,Color Block Men Polo Neck Green T-Shirt
+210,11/30/2023,Summer,BrandC,Clothing,75,3.5,Color Block Men Round Neck Red T-Shirt
+211,5/8/2023,Spring,BrandB,Clothing,130,4.5,Full Sleeve Color Block Men Sweatshirt
+212,7/14/2023,Fall,BrandA,Clothing,110,4.7,Solid Men Black Track Pants
+213,9/2/2023,Winter,BrandB,Clothing,100,3.5,Full Sleeve Self Design Men Sweatshirt
+214,6/21/2023,Summer,BrandA,Clothing,140,4.5,Self Design Men Round Neck Blue T-Shirt
+215,9/28/2023,Spring,BrandB,Clothing,160,4,Printed Men Round Neck Grey T-Shirt
+216,4/24/2023,Fall,BrandB,Clothing,80,4.7,Printed Men Round Neck Dark Blue T-Shirt
+217,5/9/2023,Winter,BrandC,Clothing,80,4.7,Solid Men Dark Blue Track Pants
+218,2/4/2023,Summer,BrandA,Clothing,80,4,Printed Men Round Neck Yellow T-Shirt
+219,1/14/2023,Spring,BrandB,Clothing,120,4,Color Block Men Round Neck White T-Shirt
+220,1/22/2023,Fall,BrandB,Clothing,90,4.5,Solid Men Round Neck Yellow T-Shirt
+221,11/20/2023,Winter,BrandC,Clothing,160,4.7,Solid Men Round Neck Grey T-Shirt
+222,4/24/2023,Summer,BrandB,Clothing,160,4,Solid Men Round Neck Black T-Shirt
+223,3/5/2023,Spring,BrandA,Clothing,140,4,Full Sleeve Self Design Men Sweatshirt
+224,8/21/2023,Fall,BrandB,Clothing,110,3.5,Sporty Men Round Neck Green T-Shirt
+225,10/13/2023,Winter,BrandC,Clothing,130,4,Full Sleeve Self Design Men Sweatshirt
+226,9/4/2023,Summer,BrandC,Clothing,150,4,Printed Men Round Neck Yellow T-Shirt
+227,1/16/2023,Spring,BrandA,Clothing,150,4.5,Solid Men Round Neck Orange T-Shirt
+228,11/17/2023,Fall,BrandA,Clothing,160,4.5,Solid Men Polo Neck Yellow T-Shirt
+229,3/9/2023,Winter,BrandC,Clothing,150,4.7,Self Design Men Polo Neck Light Green T-Shirt
+230,7/16/2023,Summer,BrandB,Clothing,130,4,Sporty Men Round Neck Black T-Shirt
+231,6/21/2023,Spring,BrandC,Clothing,110,4.7,Printed Men Round Neck Grey T-Shirt
+232,4/12/2023,Fall,BrandA,Clothing,130,4.7,"Printed, Solid Men Grey Track Pants"
+233,10/12/2023,Winter,BrandA,Clothing,140,4,Printed Men Grey Track Pants
+234,11/30/2023,Summer,BrandB,Clothing,60,4.7,Printed Men Grey Track Pants
+235,7/11/2023,Spring,BrandA,Clothing,140,4.5,Graphic Print Men V Neck White T-Shirt
+236,10/17/2023,Fall,BrandA,Clothing,150,4.7,Solid Men Round Neck White T-Shirt
+237,10/30/2023,Winter,BrandB,Clothing,140,3.5,Printed Men Round Neck White T-Shirt
+238,9/5/2023,Summer,BrandC,Clothing,130,4.7,Printed Men Polo Neck Black T-Shirt
+239,2/22/2023,Spring,BrandA,Clothing,60,4,Typography Men Hooded Neck Grey T-Shirt
+240,3/29/2023,Fall,BrandB,Clothing,80,4.7,Printed Men Round Neck Blue T-Shirt
+241,10/15/2023,Winter,BrandA,Clothing,130,4,Solid Men Hooded Neck Grey T-Shirt
+242,3/12/2023,Summer,BrandB,Clothing,60,4.7,Graphic Print Men Round Neck Black T-Shirt
+243,9/29/2023,Spring,BrandA,Clothing,90,3.5,Printed Men Round Neck Red T-Shirt
+244,6/25/2023,Fall,BrandA,Clothing,160,4.5,"Typography Men Round Neck White, Black T-Shirt"
+245,4/22/2023,Winter,BrandB,Clothing,60,3.5,Printed Men Round Neck Green T-Shirt
+246,8/8/2023,Summer,BrandC,Clothing,90,3.5,Printed Men Round Neck Black T-Shirt
+247,5/7/2023,Spring,BrandC,Clothing,110,3.5,Printed Men Round Neck Grey T-Shirt
+248,1/3/2023,Fall,BrandC,Clothing,130,4,Printed Men Hooded Neck Grey T-Shirt
+249,12/15/2023,Winter,BrandC,Clothing,110,3.5,Printed Men Round Neck Grey T-Shirt
+250,5/30/2023,Summer,BrandC,Clothing,75,4.5,Printed Men Hooded Neck Black T-Shirt
+251,8/30/2023,Spring,BrandA,Clothing,120,4.7,Color Block Men Polo Neck Red T-Shirt
+252,12/28/2023,Fall,BrandA,Clothing,140,3.5,Typography Men Round Neck Grey T-Shirt
+253,4/26/2023,Winter,BrandC,Clothing,90,4.5,Printed Men Round Neck White T-Shirt
+254,2/7/2023,Summer,BrandB,Clothing,160,4.7,Graphic Print Men Round Neck White T-Shirt
+255,9/9/2023,Spring,BrandB,Clothing,90,4.7,Printed Men Round Neck Blue T-Shirt
+256,8/28/2023,Fall,BrandA,Clothing,120,3.5,"Printed, Typography Men Round Neck Light Blue T-Shirt"
+257,1/25/2023,Winter,BrandC,Clothing,80,4,Printed Men Round Neck Black T-Shirt
+258,2/15/2023,Summer,BrandC,Clothing,140,4.7,Printed Men Hooded Neck Black T-Shirt
+259,2/28/2023,Spring,BrandB,Clothing,60,3.5,Printed Men Hooded Neck White T-Shirt
+260,10/7/2023,Fall,BrandA,Clothing,90,4.5,Solid Men Polo Neck Red T-Shirt
+261,4/19/2023,Winter,BrandA,Clothing,130,3.5,"Printed, Solid Men Round Neck Grey T-Shirt"
+262,12/4/2023,Summer,BrandA,Clothing,130,4,Self Design Men Round Neck Multicolor T-Shirt
+263,9/5/2023,Spring,BrandB,Clothing,100,4.5,Self Design Men Round Neck White T-Shirt
+264,7/15/2023,Fall,BrandC,Clothing,80,3.5,Solid Men Polo Neck Blue T-Shirt
+265,12/21/2023,Winter,BrandA,Clothing,120,4.5,Full Sleeve Embroidered Men Sweatshirt
+266,11/30/2023,Summer,BrandB,Clothing,160,4.7,Printed Men Round Neck Red T-Shirt
+267,1/5/2023,Spring,BrandA,Clothing,160,4,Self Design Men Polo Neck Light Blue T-Shirt
+268,2/25/2023,Fall,BrandB,Clothing,130,3.5,Full Sleeve Printed Men Sweatshirt
+269,5/13/2023,Winter,BrandA,Clothing,100,4,Striped Men Polo Neck Grey T-Shirt
+270,3/22/2023,Summer,BrandB,Clothing,80,4,Full Sleeve Self Design Men Sweatshirt
+271,12/24/2023,Spring,BrandC,Clothing,120,4.5,Striped Men Polo Neck Blue T-Shirt
+272,10/19/2023,Fall,BrandB,Clothing,140,4.5,Printed Men Round Neck Blue T-Shirt
+273,8/14/2023,Winter,BrandB,Clothing,110,4.7,Solid Men Polo Neck Blue T-Shirt
+274,10/7/2023,Summer,BrandB,Clothing,90,4.7,Striped Men Round or Crew Green T-Shirt
+275,2/22/2023,Spring,BrandA,Clothing,130,4,Self Design Men Round Neck Multicolor T-Shirt
+276,1/10/2023,Fall,BrandC,Clothing,150,4,"Printed, Paisley Men Polo Neck White T-Shirt"
+277,4/21/2023,Winter,BrandC,Clothing,75,3.5,Solid Men Polo Neck Red T-Shirt
+278,11/15/2023,Summer,BrandB,Clothing,130,3.5,Striped Men Polo Neck Pink T-Shirt
+279,12/17/2023,Spring,BrandB,Clothing,100,4,Self Design Men Round Neck Pink T-Shirt
+280,6/8/2023,Fall,BrandB,Clothing,130,4,Full Sleeve Self Design Men Sweatshirt
+281,9/17/2023,Winter,BrandC,Clothing,60,3.5,Full Sleeve Self Design Men Sweatshirt
+282,3/2/2023,Summer,BrandB,Clothing,130,3.5,Striped Men Round Neck Blue T-Shirt
+283,10/31/2023,Spring,BrandC,Clothing,120,4.7,Printed Men Round Neck Grey T-Shirt
+284,9/16/2023,Fall,BrandA,Clothing,100,3.5,Solid Men Polo Neck Green T-Shirt
+285,8/3/2023,Winter,BrandB,Clothing,150,4.5,Solid Men Polo Neck Red T-Shirt
+286,4/23/2023,Summer,BrandC,Clothing,75,3.5,Solid Men Polo Neck Yellow T-Shirt
+287,6/10/2023,Spring,BrandA,Clothing,80,3.5,"Printed, Striped Men V-neck Green T-Shirt"
+288,9/3/2023,Fall,BrandC,Clothing,150,4,Full Sleeve Striped Men Sweatshirt
+289,5/7/2023,Winter,BrandC,Clothing,90,4,Solid Men Polo Neck Dark Blue T-Shirt
+290,7/6/2023,Summer,BrandC,Clothing,60,4.7,Striped Men Polo Neck White T-Shirt
+291,1/11/2023,Spring,BrandC,Clothing,130,4.7,Self Design Men Round Neck Grey T-Shirt
+292,8/12/2023,Fall,BrandB,Clothing,90,4.5,Slim Men Light Blue Jeans
+293,8/16/2023,Winter,BrandC,Clothing,75,3.5,Regular Men Dark Blue Jeans
+294,1/27/2023,Summer,BrandC,Clothing,130,4.5,Slim Men Dark Blue Jeans
+295,11/5/2023,Spring,BrandA,Clothing,90,4,"Skinny Men Dark Blue, Light Blue Jeans  (Pack of 2)"
+296,11/13/2023,Fall,BrandB,Clothing,120,4.7,Skinny Men Blue Jeans  (Pack of 2)
+297,7/12/2023,Winter,BrandC,Clothing,150,4,Slim Men Black Jeans
+298,8/27/2023,Summer,BrandA,Clothing,60,4.5,Slim Men Blue Jeans
+299,7/6/2023,Spring,BrandC,Clothing,160,3.5,"Skinny Men Light Blue, Blue Jeans  (Pack of 2)"
+300,4/18/2023,Fall,BrandC,Clothing,75,3.5,"Skinny Men Light Blue, Blue Jeans  (Pack of 2)"
+301,9/16/2023,Winter,BrandB,Clothing,80,4.5,Slim Men Dark Blue Jeans
+302,8/2/2023,Summer,BrandC,Clothing,80,3.5,"Skinny Men Dark Blue, Blue Jeans  (Pack of 2)"
+303,6/30/2023,Spring,BrandA,Clothing,60,4,Slim Men Blue Jeans
+304,9/21/2023,Fall,BrandB,Clothing,130,4.7,Regular Men Light Blue Jeans
+305,3/6/2023,Winter,BrandA,Clothing,150,4.7,Slim Men Multicolor Jeans
+306,5/19/2023,Summer,BrandB,Clothing,75,3.5,Slim Men Black Jeans
+307,4/25/2023,Spring,BrandC,Clothing,140,4,Slim Fit Men Black Cotton Blend Trousers
+308,11/11/2023,Fall,BrandB,Clothing,110,4.7,Slim Men Dark Blue Jeans
+309,11/30/2023,Winter,BrandA,Clothing,110,3.5,Regular Men Black Jeans
+310,7/18/2023,Summer,BrandA,Clothing,60,4.5,Slim Men Dark Blue Jeans
+311,10/9/2023,Spring,BrandB,Clothing,60,4.7,Striped Men Three Fourths
+312,11/14/2023,Fall,BrandA,Clothing,80,4,Solid Men Round Neck Grey T-Shirt
+313,10/23/2023,Winter,BrandB,Clothing,120,4.5,Striped Men Polo Neck Blue T-Shirt
+314,4/1/2023,Summer,BrandA,Clothing,100,3.5,Striped Men Three Fourths
+315,5/22/2023,Spring,BrandC,Clothing,140,4.5,Striped Men Polo Neck Red T-Shirt
+316,10/9/2023,Fall,BrandA,Clothing,150,4.5,Self Design Men Polo Neck Blue T-Shirt
+317,1/26/2023,Winter,BrandA,Clothing,130,4.5,Men Slim Fit Checkered Spread Collar Casual Shirt
+318,5/23/2023,Summer,BrandC,Clothing,150,4.5,Regular Fit Men Grey Cotton Blend Trousers
+319,1/22/2023,Spring,BrandC,Clothing,150,3.5,Regular Fit Men Brown Satin Blend Trousers
+320,3/21/2023,Fall,BrandA,Clothing,140,4,Regular Fit Men Brown Cotton Blend Trousers
+321,7/28/2023,Winter,BrandA,Clothing,60,3.5,Solid Men Polo Neck Blue T-Shirt
+322,9/14/2023,Summer,BrandC,Clothing,150,3.5,Striped Men Polo Neck Blue T-Shirt
+323,6/21/2023,Spring,BrandB,Clothing,60,3.5,Solid Men Round Neck Blue T-Shirt
+324,2/6/2023,Fall,BrandC,Clothing,80,4.5,Solid Men Polo Neck Blue T-Shirt
+325,1/5/2023,Winter,BrandB,Clothing,75,3.5,Striped Men Polo Neck Brown T-Shirt
+326,7/16/2023,Summer,BrandB,Clothing,60,4.7,Solid Men Polo Neck Blue T-Shirt
+327,1/16/2023,Spring,BrandB,Clothing,120,4,Solid Men Three Fourths
+328,2/25/2023,Fall,BrandB,Clothing,60,4.5,Regular Fit Men Brown Cotton Blend Trousers
+329,12/26/2023,Winter,BrandC,Clothing,75,4.5,Regular Fit Men Black Cotton Blend Trousers
+330,11/13/2023,Summer,BrandA,Clothing,160,3.5,Men Slim Fit Checkered Spread Collar Casual Shirt
+331,9/14/2023,Spring,BrandB,Clothing,160,3.5,Solid Men Polo Neck Blue T-Shirt
+332,5/15/2023,Fall,BrandB,Clothing,140,4.7,Regular Fit Men White Satin Blend Trousers
+333,7/4/2023,Winter,BrandC,Clothing,150,4,Striped Men Polo Neck Yellow T-Shirt
+334,10/26/2023,Summer,BrandC,Clothing,130,3.5,Regular Fit Men Brown Cotton Blend Trousers
+335,7/12/2023,Spring,BrandA,Clothing,140,3.5,Slim Fit Men Beige Viscose Trousers
+336,1/21/2023,Fall,BrandA,Clothing,80,3.5,Solid Men Polo Neck Blue T-Shirt
+337,10/27/2023,Winter,BrandB,Clothing,160,3.5,Solid Men Polo Neck Blue T-Shirt
+338,11/25/2023,Summer,BrandC,Clothing,110,4.7,Striped Men Polo Neck Black T-Shirt
+339,12/23/2023,Spring,BrandA,Clothing,110,4,Self Design Men V Neck Grey T-Shirt
+340,3/20/2023,Fall,BrandA,Clothing,120,4.5,Solid Men Polo Neck Blue T-Shirt
+341,4/26/2023,Winter,BrandB,Clothing,90,4,Men Peds/Footie/No-Show  (Pack of 6)
+342,12/8/2023,Summer,BrandA,Clothing,110,4.5,"Men Solid Low Cut, Ankle Length, Peds/Footie/No-Show  (Pack of 6)"
+343,10/3/2023,Spring,BrandA,Clothing,80,3.5,"Men Solid Peds/Footie/No-Show, Low Cut, Ankle Length  (Pack of 6)"
+344,10/21/2023,Fall,BrandA,Clothing,75,4.7,"Men Solid Low Cut, Peds/Footie/No-Show  (Pack of 6)"
+345,2/15/2023,Winter,BrandC,Clothing,100,4.5,Solid Men Polo Neck White T-Shirt
+346,8/27/2023,Summer,BrandB,Clothing,60,3.5,Solid Men Polo Neck Black T-Shirt
+347,3/12/2023,Spring,BrandA,Clothing,75,3.5,Solid Men Black Track Pants
+348,6/28/2023,Fall,BrandC,Clothing,100,4,Solid Men Polo Neck Grey T-Shirt
+349,6/28/2023,Winter,BrandB,Clothing,110,4,Full Sleeve Solid Men Jacket
+350,2/13/2023,Summer,BrandA,Clothing,110,4.5,Solid Men Raincoat
+351,12/1/2023,Spring,BrandC,Clothing,130,3.5,Solid Men Raincoat
+352,12/10/2023,Fall,BrandA,Clothing,100,4.5,Men Dario Classic Modal Micro Brief
+353,9/14/2023,Winter,BrandA,Clothing,60,3.5,Men Dario Classic Modal Micro Brief
+354,7/1/2023,Summer,BrandC,Clothing,100,4.7,Men Dario Classic Modal Micro Brief  (Pack of 3)
+355,4/17/2023,Spring,BrandB,Clothing,120,4,Rico Classic Organic Cotton Men Trunks
+356,1/7/2023,Fall,BrandC,Clothing,80,4.7,Men Rico Organic Cotton Brief  (Pack of 2)
+357,12/26/2023,Winter,BrandC,Clothing,120,4,Men Dario Modal Micro Brief  (Pack of 2)
+358,12/10/2023,Summer,BrandC,Clothing,160,4.7,Men Dario Classic Modal Micro Brief  (Pack of 2)
+359,10/17/2023,Spring,BrandC,Clothing,100,3.5,Men Rico Classic Organic Cotton Brief
+360,12/4/2023,Fall,BrandC,Clothing,110,4.7,Dario Classic Modal Micro Men Trunks
+361,7/27/2023,Winter,BrandB,Clothing,90,3.5,Men Brief  (Pack of 2)
+362,11/23/2023,Summer,BrandA,Clothing,60,4,Men Dario Modal Micro Brief  (Pack of 2)
+363,5/27/2023,Spring,BrandA,Clothing,75,4,Men Dario Modal Micro Brief  (Pack of 2)
+364,8/26/2023,Fall,BrandA,Clothing,100,3.5,Men Dario Modal Micro Brief  (Pack of 2)
+365,4/6/2023,Winter,BrandA,Clothing,150,4.5,Men Dario Modal Micro Brief  (Pack of 3)
+366,4/12/2023,Summer,BrandA,Clothing,140,3.5,Men Dario Classic Modal Micro Brief  (Pack of 3)
+367,5/2/2023,Spring,BrandB,Clothing,60,4.7,Men Dario Modal Micro Brief  (Pack of 3)
+368,2/26/2023,Fall,BrandA,Clothing,130,4,"Color Block, Solid Men Round Neck Multicolor T-Shirt  (Pack of 3)"
+369,12/18/2023,Winter,BrandA,Clothing,90,4.5,Printed Men Round Neck Maroon T-Shirt
+370,4/4/2023,Summer,BrandA,Clothing,75,4.5,"Printed, Color Block, Checkered Men Round Neck Multicolor T-Shirt  (Pack of 3)"
+371,9/28/2023,Spring,BrandB,Clothing,110,4.5,"Color Block, Striped Men Round Neck Multicolor T-Shirt  (Pack of 3)"
+372,8/16/2023,Fall,BrandB,Clothing,60,4.5,Color Block Men Round Neck Multicolor T-Shirt  (Pack of 2)
+373,11/24/2023,Winter,BrandA,Clothing,160,3.5,Color Block Men Round Neck Grey T-Shirt
+374,8/18/2023,Summer,BrandA,Clothing,80,4.7,"Printed, Color Block Men Round Neck Multicolor T-Shirt  (Pack of 2)"
+375,9/18/2023,Spring,BrandA,Clothing,75,4,"Color Block, Solid Men Round Neck Multicolor T-Shirt  (Pack of 2)"
+376,5/21/2023,Fall,BrandA,Clothing,160,3.5,Color Block Men Round Neck Multicolor T-Shirt  (Pack of 2)
+377,6/20/2023,Winter,BrandA,Clothing,60,4.5,"Printed, Color Block, Checkered Men Round Neck Multicolor T-Shirt  (Pack of 3)"
+378,5/2/2023,Summer,BrandC,Clothing,75,4.7,"Color Block, Striped, Solid Men Round Neck Multicolor T-Shirt  (Pack of 3)"
+379,12/12/2023,Spring,BrandB,Clothing,110,4.7,"Printed, Color Block, Checkered Men Round Neck Multicolor T-Shirt  (Pack of 3)"
+380,1/22/2023,Fall,BrandA,Clothing,140,4.5,Color Block Men Round Neck Multicolor T-Shirt  (Pack of 2)
+381,4/27/2023,Winter,BrandA,Clothing,160,4.7,Color Block Men Round Neck Multicolor T-Shirt  (Pack of 2)
+382,4/25/2023,Summer,BrandB,Clothing,110,4,"Printed, Color Block Men Round Neck Multicolor T-Shirt  (Pack of 3)"
+383,9/12/2023,Spring,BrandC,Clothing,110,4,"Color Block Men Round Neck Dark Blue, Green, Grey T-Shirt"
+384,3/7/2023,Fall,BrandB,Clothing,110,4,"Printed, Color Block, Checkered Men Round Neck Multicolor T-Shirt  (Pack of 3)"
+385,1/13/2023,Winter,BrandC,Clothing,120,3.5,"Printed, Color Block Men V Neck Multicolor T-Shirt  (Pack of 2)"
+386,6/14/2023,Summer,BrandA,Clothing,160,3.5,"Color Block, Checkered Men Round Neck Multicolor T-Shirt  (Pack of 2)"
+387,3/13/2023,Spring,BrandB,Clothing,100,4,"Color Block, Striped, Checkered Men Round Neck Multicolor T-Shirt  (Pack of 3)"
+388,5/24/2023,Fall,BrandB,Clothing,80,3.5,"Printed, Self Design Men Round Neck Blue, Maroon, Grey T-Shirt  (Pack of 2)"
+389,10/1/2023,Winter,BrandA,Clothing,150,3.5,Solid Men Round Neck Multicolor T-Shirt  (Pack of 2)
+390,11/14/2023,Summer,BrandC,Clothing,130,3.5,Color Block Men Round Neck Multicolor T-Shirt  (Pack of 3)
+391,4/26/2023,Spring,BrandB,Clothing,110,4.5,Color Block Men Round Neck Multicolor T-Shirt  (Pack of 3)
+392,7/13/2023,Fall,BrandB,Clothing,90,3.5,"Printed, Striped, Solid Men Round Neck Multicolor T-Shirt  (Pack of 3)"
+393,7/14/2023,Winter,BrandA,Clothing,140,4,"Printed, Color Block, Checkered Men Round Neck Multicolor T-Shirt  (Pack of 2)"
+394,11/14/2023,Summer,BrandA,Clothing,130,4.7,Color Block Men Round Neck Multicolor T-Shirt  (Pack of 2)
+395,7/30/2023,Spring,BrandA,Clothing,120,4.5,Color Block Men Round Neck Multicolor T-Shirt  (Pack of 2)
+396,1/30/2023,Fall,BrandC,Clothing,130,3.5,"Color Block, Striped Men Round Neck Multicolor T-Shirt  (Pack of 2)"
+397,6/11/2023,Winter,BrandA,Clothing,110,4,Solid Men Henley Neck Black T-Shirt
+398,1/7/2023,Summer,BrandC,Clothing,160,3.5,Tapered Fit Men Black Jeans
+399,8/12/2023,Spring,BrandA,Clothing,140,4.7,Regular Fit Men Black Cotton Blend Trousers
+400,4/15/2023,Fall,BrandB,Clothing,110,4.5,Tapered Fit Men Dark Blue Jeans
+401,11/17/2023,Winter,BrandC,Clothing,100,4.7,Tapered Fit Men Brown Jeans
+402,2/13/2023,Summer,BrandB,Clothing,60,3.5,Tapered Fit Men Black Jeans
+403,2/27/2023,Spring,BrandA,Clothing,150,4.7,Tapered Fit Men Brown Jeans
+404,10/5/2023,Fall,BrandB,Clothing,150,4.7,Tapered Fit Men Black Jeans
+405,8/27/2023,Winter,BrandA,Clothing,100,4.7,Regular Men Dark Green Jeans
+406,10/4/2023,Summer,BrandC,Clothing,150,4.5,Regular Men Brown Jeans
+407,10/17/2023,Spring,BrandB,Clothing,140,4.5,Regular Fit Men Brown Cotton Blend Trousers
+408,1/13/2023,Fall,BrandC,Clothing,130,4,Regular Fit Men Brown Cotton Blend Trousers
+409,8/25/2023,Winter,BrandA,Clothing,80,4,Regular Men Black Jeans
+410,4/23/2023,Summer,BrandB,Clothing,150,4.5,Regular Men Dark Blue Jeans
+411,1/22/2023,Spring,BrandC,Clothing,60,4,Regular Fit Men White Cotton Blend Trousers
+412,10/10/2023,Fall,BrandC,Clothing,60,3.5,Regular Fit Men Dark Blue Cotton Blend Trousers
+413,12/21/2023,Winter,BrandA,Clothing,75,4,Regular Fit Men Grey Cotton Blend Trousers
+414,1/14/2023,Summer,BrandB,Clothing,75,3.5,Tapered Fit Men Dark Blue Jeans
+415,12/11/2023,Spring,BrandA,Clothing,110,3.5,Regular Fit Men Beige Cotton Blend Trousers
+416,6/19/2023,Fall,BrandC,Clothing,80,4.7,Regular Fit Men Beige Cotton Blend Trousers
+417,12/14/2023,Winter,BrandC,Clothing,60,3.5,Regular Men Blue Jeans
+418,11/23/2023,Summer,BrandC,Clothing,60,3.5,Tapered Fit Men Black Jeans
+419,4/29/2023,Spring,BrandB,Clothing,60,3.5,Regular Men Brown Jeans
+420,8/15/2023,Fall,BrandA,Clothing,90,4.5,Regular Men Light Blue Jeans
+421,9/18/2023,Winter,BrandC,Clothing,150,4.5,Tapered Fit Men Black Jeans
+422,9/27/2023,Summer,BrandB,Clothing,100,4,Regular Fit Men Black Cotton Blend Trousers
+423,11/15/2023,Spring,BrandB,Clothing,75,4.7,Regular Fit Men Grey Cotton Blend Trousers
+424,10/6/2023,Fall,BrandB,Clothing,140,4.7,Tapered Fit Men Dark Blue Jeans
+425,10/14/2023,Winter,BrandC,Clothing,160,4.7,Regular Fit Men Brown Cotton Blend Trousers
+426,2/25/2023,Summer,BrandB,Clothing,100,4,Tapered Fit Men Grey Jeans
+427,9/23/2023,Spring,BrandC,Clothing,160,3.5,Tapered Fit Men Black Jeans
+428,12/20/2023,Fall,BrandA,Clothing,140,4.5,Solid Men Polo Neck Red T-Shirt
+429,6/13/2023,Winter,BrandB,Clothing,140,4.5,Full Sleeve Solid Men Sweatshirt
+430,7/17/2023,Summer,BrandC,Clothing,100,3.5,Printed Men Round Neck Light Blue T-Shirt
+431,2/13/2023,Spring,BrandA,Clothing,130,4,Solid Men Polo Neck Multicolor T-Shirt
+432,3/8/2023,Fall,BrandC,Clothing,130,4.7,Striped Men Round Neck Black T-Shirt
+433,12/23/2023,Winter,BrandC,Clothing,75,4.7,Solid Men Polo Neck Red T-Shirt
+434,5/3/2023,Summer,BrandB,Clothing,160,3.5,"Printed Men Round Neck Light Blue, White T-Shirt"
+435,12/3/2023,Spring,BrandC,Clothing,110,3.5,"Striped Men Round Neck Beige, Brown T-Shirt"
+436,9/3/2023,Fall,BrandB,Clothing,140,3.5,Printed Men Round Neck Yellow T-Shirt
+437,2/12/2023,Winter,BrandC,Clothing,120,4.7,Solid Men Polo Neck Light Green T-Shirt
+438,8/6/2023,Summer,BrandB,Clothing,130,4.7,Printed Men Round Neck Blue T-Shirt
+439,9/11/2023,Spring,BrandB,Clothing,75,3.5,Full Sleeve Solid Men Jacket
+440,3/29/2023,Fall,BrandC,Clothing,150,4.7,Solid Men Polo Neck Red T-Shirt
+441,8/22/2023,Winter,BrandB,Clothing,80,4.5,Striped Men Round Neck Multicolor T-Shirt
+442,12/25/2023,Summer,BrandC,Clothing,140,4,Solid Men Polo Neck Grey T-Shirt
+443,12/21/2023,Spring,BrandA,Clothing,90,3.5,Full Sleeve Printed Men Sweatshirt
+444,9/9/2023,Fall,BrandA,Clothing,100,4.5,Solid Men Polo Neck Red T-Shirt
+445,6/3/2023,Winter,BrandA,Clothing,120,4.7,Full Sleeve Solid Men Sweatshirt
+446,5/12/2023,Summer,BrandA,Clothing,80,4,"Printed Men Round Neck Brown, Grey T-Shirt"
+447,2/3/2023,Spring,BrandC,Clothing,150,3.5,Solid Men Polo Neck Light Blue T-Shirt
+448,6/8/2023,Fall,BrandC,Clothing,90,4.5,Striped Men Round Neck White T-Shirt
+449,4/6/2023,Winter,BrandB,Clothing,140,4,Full Sleeve Solid Men Jacket
+450,12/25/2023,Summer,BrandA,Clothing,110,4,Printed Men Round Neck Red T-Shirt
+451,8/13/2023,Spring,BrandC,Clothing,100,4.5,Solid Men Polo Neck Red T-Shirt
+452,4/23/2023,Fall,BrandA,Clothing,110,4.5,Striped Men Round Neck Grey T-Shirt
+453,7/24/2023,Winter,BrandB,Clothing,120,4.7,Solid Men Polo Neck Beige T-Shirt
+454,6/16/2023,Summer,BrandA,Clothing,140,3.5,Full Sleeve Printed Men Sweatshirt
+455,12/8/2023,Spring,BrandC,Clothing,160,4.7,Full Sleeve Printed Men Sweatshirt
+456,1/16/2023,Fall,BrandC,Clothing,100,4.5,Full Sleeve Solid Men Jacket
+457,3/27/2023,Winter,BrandB,Clothing,130,4.7,Solid Men Polo Neck Red T-Shirt
+458,6/22/2023,Summer,BrandC,Clothing,60,4.5,Full Sleeve Solid Men Sweatshirt
+459,1/1/2023,Spring,BrandB,Clothing,140,4.5,Full Sleeve Solid Men Sweatshirt
+460,5/30/2023,Fall,BrandA,Clothing,60,3.5,Full Sleeve Solid Men Sweatshirt
+461,11/12/2023,Winter,BrandC,Clothing,60,3.5,Solid Men Raincoat
+462,2/18/2023,Summer,BrandC,Clothing,60,4.5,Solid Men Raincoat
+463,12/14/2023,Spring,BrandA,Clothing,110,4.5,Men Cargos
+464,3/17/2023,Fall,BrandC,Clothing,120,4.7,Men Cargos
+465,8/6/2023,Winter,BrandC,Clothing,60,3.5,Regular Men Black Jeans
+466,12/9/2023,Summer,BrandC,Clothing,130,4,Men Cargos
+467,9/26/2023,Spring,BrandC,Clothing,150,4,Striped Men Black Track Pants
+468,5/29/2023,Fall,BrandA,Clothing,160,3.5,Men Cargos
+469,12/18/2023,Winter,BrandC,Clothing,140,4.7,Men Cargos
+470,2/21/2023,Summer,BrandB,Clothing,130,3.5,Men Cargos
+471,7/1/2023,Spring,BrandB,Clothing,120,3.5,Full Sleeve Solid Men Jacket
+472,8/4/2023,Fall,BrandC,Clothing,60,4,Men Cargos
+473,3/22/2023,Winter,BrandB,Clothing,150,3.5,Striped Men Grey Track Pants
+474,5/31/2023,Summer,BrandA,Clothing,100,4,Men Cargos
+475,7/14/2023,Spring,BrandA,Clothing,90,4.5,Men Cargos
+476,1/1/2023,Fall,BrandC,Clothing,130,3.5,Men Cargos
+477,9/21/2023,Winter,BrandA,Clothing,120,4.7,Regular Men Black Jeans
+478,7/17/2023,Summer,BrandC,Clothing,120,4.7,Men Cargos
+479,4/14/2023,Spring,BrandC,Clothing,100,4.5,Men Cargos
+480,5/24/2023,Fall,BrandB,Clothing,140,3.5,Men Cargos
+481,9/6/2023,Winter,BrandA,Clothing,80,4.5,Men Cargos
+482,12/9/2023,Summer,BrandB,Clothing,80,4.7,Men Cargos
+483,4/2/2023,Spring,BrandA,Clothing,110,4.5,Regular Men Grey Jeans
+484,7/29/2023,Fall,BrandB,Clothing,75,3.5,Regular Men Light Blue Jeans
+485,7/25/2023,Winter,BrandB,Clothing,90,4,Men Cargos
+486,8/16/2023,Summer,BrandC,Clothing,130,3.5,Men Cargos
+487,3/30/2023,Spring,BrandB,Clothing,130,3.5,Men Cargos
+488,11/15/2023,Fall,BrandC,Clothing,150,4.5,Men Cargos
+489,3/24/2023,Winter,BrandA,Clothing,100,4.5,Men Cargos
+490,10/5/2023,Summer,BrandB,Clothing,100,4,Men Cargos
+491,1/20/2023,Spring,BrandA,Clothing,80,4.5,Regular Men Beige Jeans
+492,3/21/2023,Fall,BrandA,Clothing,60,4.7,Men Cargos
+493,9/12/2023,Winter,BrandB,Clothing,150,4.7,Slides
+494,12/5/2023,Summer,BrandA,Clothing,150,4.5,Slides
+495,1/23/2023,Spring,BrandC,Clothing,150,4.7,Slides
+496,9/10/2023,Fall,BrandC,Clothing,160,4,Slides
+497,2/25/2023,Winter,BrandC,Clothing,110,3.5,Slides
+498,7/4/2023,Summer,BrandC,Clothing,120,4.7,Slides
+499,5/19/2023,Spring,BrandA,Clothing,120,4.5,Slides
+500,3/22/2023,Fall,BrandB,Clothing,140,4.5,Slides
+501,3/8/2023,Winter,BrandC,Clothing,80,4.7,Slides
+502,11/12/2023,Summer,BrandA,Clothing,130,3.5,Slides
+503,2/1/2023,Spring,BrandA,Clothing,90,3.5,Slides
+504,6/14/2023,Fall,BrandC,Clothing,90,4.5,Slides
+505,11/2/2023,Winter,BrandC,Clothing,150,3.5,Slides
+506,2/26/2023,Summer,BrandB,Clothing,120,3.5,Slides
+507,7/21/2023,Spring,BrandC,Clothing,80,4,Slides
+508,3/23/2023,Fall,BrandB,Clothing,130,4.7,Slides
+509,6/17/2023,Winter,BrandC,Clothing,120,4.5,Slides
+510,8/22/2023,Summer,BrandC,Clothing,130,4.5,Slides
+511,9/21/2023,Spring,BrandB,Clothing,120,4.5,Slides
+512,9/7/2023,Fall,BrandC,Clothing,160,4.7,Slides
+513,3/26/2023,Winter,BrandB,Clothing,75,4.7,Slides
+514,4/20/2023,Summer,BrandA,Clothing,110,4,Slides
+515,11/22/2023,Spring,BrandA,Clothing,160,4.5,Slides
+516,6/21/2023,Fall,BrandB,Clothing,140,3.5,Slides
+517,12/2/2023,Winter,BrandC,Clothing,80,4.7,Slides
+518,7/23/2023,Summer,BrandB,Clothing,150,4.5,Slides
+519,6/22/2023,Spring,BrandB,Clothing,100,4,Slides
+520,3/29/2023,Fall,BrandA,Clothing,75,3.5,Slides
+521,11/30/2023,Winter,BrandC,Clothing,75,3.5,Slides
+522,2/28/2023,Summer,BrandA,Clothing,160,4,Slides
+523,1/4/2023,Spring,BrandC,Clothing,150,4.7,Men Regular Fit Solid Spread Collar Casual Shirt
+524,4/18/2023,Fall,BrandC,Clothing,90,3.5,Men Regular Fit Solid Mandarin Collar Casual Shirt
+525,6/9/2023,Winter,BrandA,Clothing,80,4.7,Men Regular Fit Solid Spread Collar Casual Shirt
+526,4/29/2023,Summer,BrandC,Clothing,80,4.7,Men Regular Fit Solid Spread Collar Casual Shirt
+527,7/27/2023,Spring,BrandB,Clothing,75,4.7,Men Regular Fit Solid Spread Collar Casual Shirt
+528,11/7/2023,Fall,BrandA,Clothing,100,4.5,Men Regular Fit Solid Spread Collar Casual Shirt
+529,7/10/2023,Winter,BrandB,Clothing,80,4.5,Men Regular Fit Solid Spread Collar Casual Shirt
+530,5/20/2023,Summer,BrandC,Clothing,80,3.5,Men Regular Fit Solid Spread Collar Casual Shirt
+531,4/3/2023,Spring,BrandC,Clothing,130,3.5,Men Regular Fit Solid Spread Collar Casual Shirt
+532,1/30/2023,Fall,BrandC,Clothing,90,4,Men Regular Fit Solid Spread Collar Casual Shirt
+533,11/20/2023,Winter,BrandB,Clothing,140,4,Men Regular Fit Solid Spread Collar Casual Shirt
+534,4/21/2023,Summer,BrandA,Clothing,80,4.7,Men Regular Fit Solid Spread Collar Casual Shirt
+535,3/21/2023,Spring,BrandA,Clothing,120,3.5,Men Regular Fit Solid Spread Collar Casual Shirt
+536,12/3/2023,Fall,BrandC,Clothing,100,4.7,Men Regular Fit Solid Spread Collar Casual Shirt
+537,10/18/2023,Winter,BrandA,Clothing,100,3.5,Men Regular Fit Solid Spread Collar Casual Shirt
+538,12/1/2023,Summer,BrandB,Clothing,75,4,Men Regular Fit Solid Spread Collar Casual Shirt
+539,3/18/2023,Spring,BrandC,Clothing,140,4.7,Men Regular Fit Solid Spread Collar Casual Shirt
+540,9/11/2023,Fall,BrandA,Clothing,120,4.7,Men Regular Fit Solid Mandarin Collar Casual Shirt
+541,7/15/2023,Winter,BrandC,Clothing,100,3.5,Men Regular Fit Solid Spread Collar Casual Shirt
+542,5/31/2023,Summer,BrandB,Clothing,120,4,Men Regular Fit Solid Spread Collar Casual Shirt
+543,8/6/2023,Spring,BrandC,Clothing,140,4,Men Regular Fit Solid Spread Collar Casual Shirt
+544,2/19/2023,Fall,BrandC,Clothing,75,4.7,Men Regular Fit Solid Spread Collar Casual Shirt
+545,5/7/2023,Winter,BrandB,Clothing,120,4.5,Men Regular Fit Solid Spread Collar Casual Shirt
+546,12/12/2023,Summer,BrandA,Clothing,150,4,Men Regular Fit Solid Spread Collar Casual Shirt
+547,7/24/2023,Spring,BrandC,Clothing,120,4,Men Regular Fit Solid Spread Collar Casual Shirt
+548,1/8/2023,Fall,BrandA,Clothing,120,3.5,Men Regular Fit Solid Mandarin Collar Casual Shirt
+549,11/13/2023,Winter,BrandB,Clothing,130,4.5,Men Regular Fit Solid Mandarin Collar Casual Shirt
+550,12/26/2023,Summer,BrandC,Clothing,100,4,Men Regular Fit Solid Spread Collar Casual Shirt
+551,10/27/2023,Spring,BrandB,Clothing,80,4,Men Regular Fit Solid Mandarin Collar Casual Shirt
+552,2/4/2023,Fall,BrandA,Clothing,140,4.7,Men Regular Fit Solid Spread Collar Casual Shirt
+553,1/30/2023,Winter,BrandB,Clothing,60,3.5,Cap Cap
+554,4/20/2023,Summer,BrandA,Clothing,140,4,Cap Cap
+555,1/7/2023,Spring,BrandA,Clothing,90,4.7,Solid Winter Men Gloves
+556,11/2/2023,Fall,BrandA,Clothing,75,3.5,Solid Men Black Track Pants
+557,6/11/2023,Winter,BrandC,Clothing,75,3.5,Solid Men Olive Track Pants
+558,5/4/2023,Summer,BrandB,Clothing,130,4.5,Solid Men Dark Green Track Pants
+559,1/17/2023,Spring,BrandA,Clothing,110,4.5,Solid Men Black Track Pants
+560,5/12/2023,Fall,BrandC,Clothing,150,4.7,Solid Men Black Track Pants
+561,1/9/2023,Winter,BrandA,Clothing,100,4,Solid Men Black Track Pants
+562,7/6/2023,Summer,BrandA,Clothing,130,3.5,Striped Men Dark Blue Track Pants
+563,9/9/2023,Spring,BrandC,Clothing,90,4.7,Solid Men Black Track Pants
+564,9/6/2023,Fall,BrandB,Clothing,80,3.5,Solid Men Black Track Pants
+565,6/17/2023,Winter,BrandC,Clothing,140,4.5,Full Sleeve Color Block Men Sweatshirt
+566,10/9/2023,Summer,BrandA,Clothing,130,4,Men Cargos
+567,1/21/2023,Spring,BrandA,Clothing,90,3.5,Self Design Men Track Suit
+568,4/11/2023,Fall,BrandB,Clothing,60,4.7,Solid Men Track Suit
+569,8/12/2023,Winter,BrandA,Clothing,150,3.5,Solid Men Grey Track Pants
+570,6/16/2023,Summer,BrandB,Clothing,140,4.5,"Striped, Solid Men Black Track Pants"
+571,11/5/2023,Spring,BrandA,Clothing,75,4,Solid Men Black Track Pants
+572,2/21/2023,Fall,BrandB,Clothing,90,3.5,Men Cargos
+573,8/23/2023,Winter,BrandB,Clothing,100,4.7,Men Cargos
+574,3/21/2023,Summer,BrandA,Clothing,60,4,Solid Men Black Track Pants
+575,6/9/2023,Spring,BrandC,Clothing,160,4,Solid Men Dark Blue Track Pants
+576,5/1/2023,Fall,BrandA,Clothing,90,4,Solid Men Black Track Pants
+577,2/8/2023,Winter,BrandA,Clothing,60,3.5,Striped Men Black Track Pants
+578,11/17/2023,Summer,BrandB,Clothing,150,4.5,Solid Men Black Track Pants
+579,4/6/2023,Spring,BrandB,Clothing,100,3.5,Men Cargos
+580,3/22/2023,Fall,BrandA,Clothing,150,4.7,Solid Men Black Track Pants
+581,10/31/2023,Winter,BrandC,Clothing,140,4.7,Solid Men Black Track Pants
+582,12/18/2023,Summer,BrandC,Clothing,80,3.5,Solid Men Black Track Pants
+583,8/3/2023,Spring,BrandC,Clothing,60,4.5,Solid Men Black Track Pants
+584,1/11/2023,Fall,BrandB,Clothing,75,4,Solid Men Olive Track Pants
+585,12/18/2023,Winter,BrandB,Clothing,140,4.5,Solid Men Dark Blue Track Pants
+586,6/18/2023,Summer,BrandB,Clothing,80,3.5,"Men & Women, Men, Boys, Women, Boys & Girls, Girls Printed Bandana  (Pack of 4)"
+587,5/31/2023,Spring,BrandB,Clothing,60,4.5,"Men & Women, Men, Boys, Women, Girls, Boys & Girls Solid Bandana"
+588,3/2/2023,Fall,BrandB,Clothing,110,4.5,"Men & Women, Men, Boys, Women, Boys & Girls, Girls Printed Bandana"
+589,6/27/2023,Winter,BrandC,Clothing,110,4,"Men & Women, Men, Boys, Women, Boys & Girls, Girls Printed Bandana  (Pack of 3)"
+590,7/8/2023,Summer,BrandC,Clothing,150,4.7,"Men & Women, Men, Boys, Women, Boys & Girls, Girls Printed Bandana"
+591,6/10/2023,Spring,BrandB,Clothing,100,4.5,"Men & Women, Men, Boys, Women, Boys & Girls, Girls Printed Bandana  (Pack of 5)"
+592,11/7/2023,Fall,BrandC,Clothing,75,3.5,"Men & Women, Men, Boys, Women, Boys & Girls, Girls Printed Bandana  (Pack of 2)"
+593,7/8/2023,Winter,BrandA,Clothing,60,4.5,"Men, Men & Women, Women, Girls, Boys Printed Bandana"
+594,9/23/2023,Summer,BrandC,Clothing,110,4.7,"Men & Women, Men, Boys, Women, Boys & Girls, Girls Printed Bandana"
+595,4/4/2023,Spring,BrandC,Clothing,130,4.7,Solid Solid Men's Woolen Mockey Cap Cap
+596,6/10/2023,Fall,BrandB,Clothing,120,3.5,"Men & Women, Men, Boys, Women, Boys & Girls, Girls Printed Bandana"
+597,3/10/2023,Winter,BrandB,Clothing,160,4,"Men & Women, Men, Boys, Women, Boys & Girls, Girls Graphic Print Bandana"
+598,10/2/2023,Summer,BrandA,Clothing,110,3.5,"Men & Women, Men, Boys, Women, Boys & Girls, Girls Printed Bandana  (Pack of 2)"
+599,4/2/2023,Spring,BrandB,Clothing,90,4.7,"Men & Women, Men, Boys, Women, Boys & Girls, Girls Printed Bandana"
+600,5/17/2023,Fall,BrandA,Clothing,120,3.5,"Men & Women, Men, Boys, Women, Boys & Girls, Girls Printed Bandana"
+601,7/6/2023,Winter,BrandA,Clothing,160,4.5,Full Sleeve Solid Men Sweatshirt
+602,12/18/2023,Summer,BrandB,Clothing,80,4.5,Full Sleeve Solid Men Sweatshirt
+603,2/26/2023,Spring,BrandB,Clothing,60,4.5,Striped Men Track Suit
+604,8/12/2023,Fall,BrandA,Clothing,90,4,Boots For Men  (Brown)
+605,6/7/2023,Winter,BrandB,Clothing,160,4.5,Boots For Men  (White)
+606,7/18/2023,Summer,BrandC,Clothing,100,3.5,Sneakers For Men  (White)
+607,2/7/2023,Spring,BrandB,Clothing,150,4.5,Loafers For Men  (Blue)
+608,5/12/2023,Fall,BrandB,Clothing,75,4,Sneakers For Men  (Black)
+609,7/17/2023,Winter,BrandC,Clothing,75,3.5,Loafers For Men  (Blue)
+610,10/7/2023,Summer,BrandB,Clothing,120,4,Lace Up For Men  (Brown)
+611,11/17/2023,Spring,BrandB,Clothing,120,3.5,For Men  (Grey)
+612,1/12/2023,Fall,BrandA,Clothing,110,4,Casuals For Men  (Tan)
+613,3/4/2023,Winter,BrandA,Clothing,110,4.7,Running Shoes For Men  (Blue)
+614,11/12/2023,Summer,BrandB,Clothing,160,4.7,Running Shoes For Men  (Black)
+615,9/11/2023,Spring,BrandA,Clothing,150,4,Loafers For Men  (Blue)
+616,3/16/2023,Fall,BrandC,Clothing,160,4,Loafers For Men  (Blue)
+617,6/12/2023,Winter,BrandB,Clothing,120,4.5,Loafers For Men  (Brown)
+618,3/20/2023,Summer,BrandA,Clothing,130,4,Walking Shoes For Men  (Red)
+619,10/7/2023,Spring,BrandB,Clothing,75,4.5,Lace Up For Men  (Brown)
+620,9/9/2023,Fall,BrandC,Clothing,120,4,Casuals For Men  (Red)
+621,8/18/2023,Winter,BrandC,Clothing,60,4.5,Party Wear For Men  (Blue)
+622,11/21/2023,Summer,BrandB,Clothing,100,4.7,Loafers For Men  (Tan)
+623,11/24/2023,Spring,BrandC,Clothing,120,4.7,Loafers For Men  (Blue)
+624,8/28/2023,Fall,BrandC,Clothing,130,4.5,Lace Up For Men  (Black)
+625,9/29/2023,Winter,BrandB,Clothing,140,4.5,Sneakers For Men  (White)
+626,5/3/2023,Summer,BrandA,Clothing,130,4.5,Loafers For Men  (Brown)
+627,7/15/2023,Spring,BrandC,Clothing,75,4.7,"Party Wear For Men  (Tan, Beige)"
+628,12/17/2023,Fall,BrandA,Clothing,130,4.5,Loafers For Men  (Black)
+629,8/29/2023,Winter,BrandA,Clothing,110,4.7,Running Shoes For Men  (Black)
+630,8/22/2023,Summer,BrandC,Clothing,120,4.7,Sneakers For Men  (Black)
+631,8/27/2023,Spring,BrandA,Clothing,150,4.5,Loafers For Men  (Brown)
+632,6/30/2023,Fall,BrandA,Clothing,90,4.7,Sneakers For Men  (Black)
+633,1/7/2023,Winter,BrandB,Clothing,160,4.5,Loafers For Men  (Brown)
+634,7/3/2023,Summer,BrandC,Clothing,130,4,Men Slim Fit Striped Spread Collar Casual Shirt
+635,5/28/2023,Spring,BrandA,Clothing,100,4,Men Slim Fit Solid Spread Collar Casual Shirt
+636,6/11/2023,Fall,BrandA,Clothing,60,4.7,Men Pyjama  (Pack of 1)
+637,6/7/2023,Winter,BrandA,Clothing,120,4.5,Men Slim Fit Solid Spread Collar Casual Shirt
+638,9/11/2023,Summer,BrandB,Clothing,100,4.7,Men Slim Fit Printed Spread Collar Casual Shirt
+639,4/23/2023,Spring,BrandA,Clothing,80,4.7,Floral Print Men Boxer  (Pack of 1)
+640,5/3/2023,Fall,BrandC,Clothing,100,3.5,Men Slim Fit Solid Spread Collar Formal Shirt
+641,4/1/2023,Winter,BrandB,Clothing,75,3.5,Men Slim Fit Checkered Spread Collar Casual Shirt
+642,11/10/2023,Summer,BrandA,Clothing,100,4.7,Men Slim Fit Printed Spread Collar Casual Shirt
+643,4/23/2023,Spring,BrandA,Clothing,160,4.7,Printed Men Boxer  (Pack of 1)
+644,8/21/2023,Fall,BrandC,Clothing,90,3.5,Men Slim Fit Striped Spread Collar Casual Shirt
+645,11/16/2023,Winter,BrandB,Clothing,120,4,Men Slim Fit Checkered Spread Collar Casual Shirt
+646,11/10/2023,Summer,BrandB,Clothing,140,4.5,Men Slim Fit Checkered Spread Collar Casual Shirt
+647,1/2/2023,Spring,BrandB,Clothing,60,4.5,Men Slim Fit Printed Spread Collar Casual Shirt
+648,8/10/2023,Fall,BrandB,Clothing,120,4.5,Men Slim Fit Checkered Spread Collar Casual Shirt
+649,11/26/2023,Winter,BrandA,Clothing,140,4.7,Geometric Print Men Boxer  (Pack of 1)
+650,4/8/2023,Summer,BrandB,Clothing,100,3.5,Men Slim Fit Checkered Spread Collar Casual Shirt
+651,1/28/2023,Spring,BrandC,Clothing,80,4.5,Men Slim Fit Solid Casual Shirt
+652,5/11/2023,Fall,BrandB,Clothing,60,4.7,Men Pyjama  (Pack of 1)
+653,2/6/2023,Winter,BrandB,Clothing,80,4,Men Slim Fit Striped Spread Collar Casual Shirt
+654,7/8/2023,Summer,BrandA,Clothing,75,4.5,Men Slim Fit Solid Spread Collar Casual Shirt
+655,1/20/2023,Spring,BrandA,Clothing,90,4.7,Men Slim Fit Printed Spread Collar Casual Shirt
+656,5/10/2023,Fall,BrandB,Clothing,130,4.7,Men Slim Fit Printed Spread Collar Casual Shirt
+657,6/19/2023,Winter,BrandC,Clothing,150,3.5,Men Slim Fit Printed Casual Shirt
+658,11/10/2023,Summer,BrandB,Clothing,150,4.7,Men Slim Fit Checkered Spread Collar Casual Shirt
+659,4/25/2023,Spring,BrandB,Clothing,75,3.5,Men Slim Fit Striped Spread Collar Casual Shirt
+660,4/10/2023,Fall,BrandA,Clothing,150,4.7,Printed Men Boxer  (Pack of 1)
+661,7/4/2023,Winter,BrandC,Clothing,160,4,Floral Print Men Boxer  (Pack of 1)
+662,10/29/2023,Summer,BrandC,Clothing,75,3.5,Men Slim Fit Printed Casual Shirt
+663,3/21/2023,Spring,BrandB,Clothing,100,4,Men Slim Fit Printed Casual Shirt
+664,8/18/2023,Fall,BrandA,Clothing,120,3.5,Men Slim Fit Printed Casual Shirt
+665,7/22/2023,Winter,BrandB,Clothing,100,4.7,Slim Fit Men Beige Cotton Blend Trousers
+666,10/23/2023,Summer,BrandC,Clothing,140,4,Men Slim Fit Printed Casual Shirt
+667,2/22/2023,Spring,BrandA,Clothing,130,4.5,"Printed Boys, Men Boxer  (Pack of 1)"
+668,3/11/2023,Fall,BrandB,Clothing,60,4.7,Men Slim Fit Printed Casual Shirt
+669,8/30/2023,Winter,BrandA,Clothing,110,4.5,Regular Fit Men Grey Cotton Blend Trousers
+670,12/23/2023,Summer,BrandB,Clothing,80,4.5,Regular Fit Men Black Cotton Blend Trousers
+671,10/4/2023,Spring,BrandB,Clothing,80,4.7,Men Slim Fit Printed Casual Shirt
+672,5/15/2023,Fall,BrandC,Clothing,120,4.7,Regular Fit Men Black Cotton Blend Trousers
+673,11/30/2023,Winter,BrandB,Clothing,75,4.5,Men Slim Fit Printed Casual Shirt
+674,7/29/2023,Summer,BrandC,Clothing,100,4.7,Regular Fit Men Grey Cotton Blend Trousers
+675,5/2/2023,Spring,BrandB,Clothing,90,3.5,Men Slim Fit Printed Casual Shirt
+676,12/6/2023,Fall,BrandA,Clothing,80,4,Regular Fit Men Grey Cotton Blend Trousers
+677,8/4/2023,Winter,BrandB,Clothing,90,3.5,Printed Men Beige Bermuda Shorts
+678,2/8/2023,Summer,BrandA,Clothing,100,3.5,Men Slim Fit Printed Casual Shirt
+679,10/14/2023,Spring,BrandC,Clothing,100,4.5,Slim Fit Men Blue Corduroy Trousers
+680,9/5/2023,Fall,BrandC,Clothing,60,4.7,Men Slim Fit Printed Casual Shirt
+681,10/9/2023,Winter,BrandA,Clothing,150,4,"Printed Men, Boys Boxer  (Pack of 1)"
+682,3/25/2023,Summer,BrandB,Clothing,160,4,Men Slim Fit Striped Casual Shirt
+683,2/13/2023,Spring,BrandC,Clothing,90,4.7,Slim Fit Men Black Cotton Blend Trousers
+684,5/12/2023,Fall,BrandA,Clothing,140,4.5,Regular Fit Men Beige Cotton Blend Trousers
+685,7/30/2023,Winter,BrandB,Clothing,120,3.5,Men Slim Fit Printed Casual Shirt
+686,10/12/2023,Summer,BrandC,Clothing,160,4.5,Men Slim Fit Printed Casual Shirt
+687,12/18/2023,Spring,BrandC,Clothing,120,3.5,"Printed Boys, Men Boxer  (Pack of 1)"
+688,7/2/2023,Fall,BrandA,Clothing,150,4,Regular Fit Men Cream Cotton Blend Trousers
+689,1/29/2023,Winter,BrandB,Clothing,60,3.5,Men Slim Fit Printed Casual Shirt
+690,9/8/2023,Summer,BrandB,Clothing,150,4,Men Slim Fit Printed Casual Shirt
+691,11/20/2023,Spring,BrandA,Clothing,100,3.5,Slim Fit Men Beige Corduroy Trousers
+692,6/10/2023,Fall,BrandC,Clothing,160,4,Regular Fit Men Dark Green Cotton Blend Trousers
+693,6/30/2023,Winter,BrandC,Clothing,90,4.5,Men Slim Fit Printed Casual Shirt
+694,1/12/2023,Summer,BrandB,Clothing,75,4,Men Solid Ankle Length  (Pack of 5)
+695,4/10/2023,Spring,BrandA,Clothing,130,4.7,Solid Men Grey Chino Shorts
+696,1/2/2023,Fall,BrandB,Clothing,75,4.5,Slim Fit Men Cream Cotton Blend Trousers
+697,11/12/2023,Winter,BrandB,Clothing,140,4.7,Solid Men Blue Chino Shorts
+698,12/27/2023,Summer,BrandC,Clothing,160,4.7,Printed Men Brown Chino Shorts
+699,5/14/2023,Spring,BrandA,Clothing,90,4.7,Solid Men Black Chino Shorts
+700,10/13/2023,Fall,BrandB,Clothing,110,4.7,Printed Men Round Neck Orange T-Shirt
+701,6/5/2023,Winter,BrandB,Clothing,80,4,Checkered Men Multicolor Chino Shorts
+702,5/20/2023,Summer,BrandC,Clothing,75,3.5,Self Design Men Grey Track Pants
+703,3/4/2023,Spring,BrandC,Clothing,160,3.5,Full Sleeve Solid Men Sweatshirt
+704,5/12/2023,Fall,BrandC,Clothing,110,3.5,Solid Men Dark Blue Cargo Shorts
+705,9/17/2023,Winter,BrandB,Clothing,130,4.5,Solid Men Brown Cargo Shorts
+706,1/6/2023,Summer,BrandC,Clothing,110,3.5,Floral Print Men Red Chino Shorts
+707,3/29/2023,Spring,BrandC,Clothing,120,4.5,Solid Men Red Chino Shorts
+708,9/29/2023,Fall,BrandC,Clothing,110,4.7,Slim Fit Men Brown Cotton Blend Trousers
+709,5/9/2023,Winter,BrandB,Clothing,150,4.7,Solid Men Red Cargo Shorts
+710,4/4/2023,Summer,BrandB,Clothing,140,4,Self Design Men Grey Sports Shorts
+711,3/31/2023,Spring,BrandC,Clothing,150,4.5,Printed Men Black Chino Shorts
+712,2/10/2023,Fall,BrandA,Clothing,90,4.7,"Floral Print Men Grey, Beige Regular Shorts"
+713,10/26/2023,Winter,BrandA,Clothing,150,4,Printed Men Round Neck Black T-Shirt
+714,2/6/2023,Summer,BrandA,Clothing,80,4.7,Slim Fit Men Black Cotton Blend Trousers
+715,4/20/2023,Spring,BrandC,Clothing,140,4.7,Self Design Men Light Blue Chino Shorts
+716,7/2/2023,Fall,BrandA,Clothing,75,4,Solid Men Beige Regular Shorts
+717,12/28/2023,Winter,BrandC,Clothing,80,4,Solid Men Beige Track Pants
+718,1/29/2023,Summer,BrandC,Clothing,80,3.5,Full Sleeve Solid Men Sweatshirt
+719,3/9/2023,Spring,BrandA,Clothing,110,4.7,Solid Men Round Neck Blue T-Shirt
+720,6/16/2023,Fall,BrandB,Clothing,75,3.5,Solid Men Light Green Cargo Shorts
+721,8/30/2023,Winter,BrandA,Clothing,80,4.7,Men Slim Fit Printed Spread Collar Casual Shirt
+722,5/11/2023,Summer,BrandB,Clothing,80,3.5,Solid Men Beige Cargo Shorts
+723,8/28/2023,Spring,BrandA,Clothing,110,4.5,"Printed Men Round Neck White, Black T-Shirt"
+724,11/3/2023,Fall,BrandA,Clothing,60,4.7,Relaxed Men Brown Cotton Blend Trousers
+725,9/17/2023,Winter,BrandB,Clothing,100,4.7,Men Brief  (Pack of 2)
+726,2/23/2023,Summer,BrandB,Clothing,100,4,Men Brief
+727,1/12/2023,Spring,BrandB,Clothing,100,4.7,Men Brief
+728,7/18/2023,Fall,BrandC,Clothing,100,4.7,Men Brief  (Pack of 2)
+729,3/11/2023,Winter,BrandC,Clothing,100,4.7,Men Brief
+730,5/5/2023,Summer,BrandB,Clothing,120,4,Men Brief  (Pack of 3)
+731,6/17/2023,Spring,BrandC,Clothing,90,4.5,Men Brief
+732,1/22/2023,Fall,BrandC,Clothing,80,3.5,Men Brief  (Pack of 2)
+733,9/8/2023,Winter,BrandC,Clothing,60,4.5,Men Brief
+734,2/27/2023,Summer,BrandB,Clothing,140,3.5,Men Brief
+735,3/15/2023,Spring,BrandC,Clothing,160,4.7,Men Brief
+736,7/4/2023,Fall,BrandC,Clothing,160,4,Men Brief  (Pack of 3)
+737,8/8/2023,Winter,BrandB,Clothing,160,4.7,Men Brief  (Pack of 2)
+738,7/6/2023,Summer,BrandC,Clothing,75,3.5,Men Brief
+739,9/22/2023,Spring,BrandA,Clothing,100,4.7,Men Brief
+740,9/26/2023,Fall,BrandC,Clothing,75,3.5,Men Brief  (Pack of 2)
+741,6/4/2023,Winter,BrandB,Clothing,130,4.7,Men Brief  (Pack of 2)
+742,10/21/2023,Summer,BrandC,Clothing,80,4,Men Brief
+743,11/1/2023,Spring,BrandA,Clothing,80,4.7,Men Brief  (Pack of 3)
+744,11/15/2023,Fall,BrandB,Clothing,100,4,Men Brief  (Pack of 2)
+745,3/8/2023,Winter,BrandC,Clothing,130,4.7,Men Brief  (Pack of 3)
+746,8/19/2023,Summer,BrandC,Clothing,60,4,Men Brief  (Pack of 2)
+747,1/18/2023,Spring,BrandA,Clothing,75,4.7,Men Brief  (Pack of 3)
+748,10/4/2023,Fall,BrandB,Clothing,160,4,Men Brief
+749,1/15/2023,Winter,BrandC,Clothing,75,4.7,Men Brief  (Pack of 3)
+750,1/11/2023,Summer,BrandC,Clothing,90,4,Men Brief  (Pack of 2)
+751,1/9/2023,Spring,BrandA,Clothing,150,4.7,Men Brief  (Pack of 2)
+752,8/15/2023,Fall,BrandC,Clothing,160,3.5,Men Brief
+753,10/12/2023,Winter,BrandB,Clothing,75,3.5,Men Brief  (Pack of 2)
+754,3/22/2023,Summer,BrandB,Clothing,130,4,Men Brief
+755,7/31/2023,Spring,BrandC,Clothing,100,4.5,Color Block Men Round Neck Multicolor T-Shirt
+756,5/22/2023,Fall,BrandC,Clothing,160,3.5,"Striped Men Polo Neck Dark Blue, Red, Beige T-Shirt"
+757,12/14/2023,Winter,BrandB,Clothing,160,4,Striped Men Polo Neck Red T-Shirt
+758,5/13/2023,Summer,BrandA,Clothing,90,4,Striped Men Polo Neck Brown T-Shirt
+759,9/4/2023,Spring,BrandB,Clothing,100,3.5,"Striped Men Polo Neck Black, Grey, Beige T-Shirt"
+760,8/5/2023,Fall,BrandB,Clothing,90,4.7,Men Regular Fit Striped Casual Shirt
+761,4/16/2023,Winter,BrandA,Clothing,130,4.5,Men Slim Fit Solid Casual Shirt
+762,10/18/2023,Summer,BrandA,Clothing,120,3.5,Men Regular Fit Solid Casual Shirt
+763,10/18/2023,Spring,BrandC,Clothing,100,3.5,Men Slim Fit Striped Casual Shirt
+764,9/10/2023,Fall,BrandB,Clothing,60,4.5,Men Slim Fit Printed Sports Shirt
+765,2/10/2023,Winter,BrandB,Clothing,130,4,Solid Men Collared Neck Brown T-Shirt
+766,4/15/2023,Summer,BrandA,Clothing,75,4.7,Printed Men Polo Neck Brown T-Shirt
+767,6/3/2023,Spring,BrandB,Clothing,140,3.5,Men Slim Fit Printed Casual Shirt
+768,6/8/2023,Fall,BrandB,Clothing,150,4.7,Striped Men Polo Neck Blue T-Shirt
+769,9/28/2023,Winter,BrandB,Clothing,90,4.7,Striped Men Mandarin Collar Dark Blue T-Shirt
+770,11/11/2023,Summer,BrandC,Clothing,130,4,Men Regular Fit Solid Casual Shirt
+771,2/1/2023,Spring,BrandC,Clothing,120,4.7,Striped Men Polo Neck Blue T-Shirt
+772,11/12/2023,Fall,BrandC,Clothing,120,3.5,Men Slim Fit Printed Sports Shirt
+773,8/4/2023,Winter,BrandB,Clothing,100,4.5,Striped Men Polo Neck Red T-Shirt
+774,3/31/2023,Summer,BrandC,Clothing,120,4,Printed Men Polo Neck Grey T-Shirt
+775,8/11/2023,Spring,BrandA,Clothing,60,4,Men Slim Fit Self Design Casual Shirt
+776,12/19/2023,Fall,BrandB,Clothing,60,4.7,Men Slim Fit Self Design Casual Shirt
+777,2/10/2023,Winter,BrandC,Clothing,120,4.5,Men Slim Fit Printed Casual Shirt
+778,6/15/2023,Summer,BrandB,Clothing,75,4.5,Striped Men Polo Neck White T-Shirt
+779,12/24/2023,Spring,BrandC,Clothing,100,4.7,Solid Men Collared Neck Blue T-Shirt
+780,8/19/2023,Fall,BrandB,Clothing,140,4,Solid Men Polo Neck Grey T-Shirt
+781,11/5/2023,Winter,BrandC,Clothing,130,4.5,Sleeveless Solid Men Casual Jacket
+782,8/19/2023,Summer,BrandB,Clothing,140,3.5,Striped Men Polo Neck Blue T-Shirt
+783,11/10/2023,Spring,BrandC,Clothing,120,4,Striped Men Polo Neck Brown T-Shirt
+784,8/31/2023,Fall,BrandB,Clothing,100,4.7,Slim Fit Men Grey Cotton Blend Trousers
+785,4/9/2023,Winter,BrandC,Clothing,120,4.7,Printed Men Dark Blue Track Pants
+786,11/28/2023,Summer,BrandC,Clothing,160,3.5,"Printed Men Collared Neck Blue, Red, Yellow T-Shirt"
+787,10/9/2023,Spring,BrandC,Clothing,110,4,Printed Men Black Track Pants
+788,5/27/2023,Fall,BrandC,Clothing,120,4,Solid Men Black Track Pants
+789,3/8/2023,Winter,BrandB,Clothing,75,4.5,Printed Men Round Neck Black T-Shirt
+790,3/15/2023,Summer,BrandA,Clothing,120,4,Printed Men Round Neck Black T-Shirt
+791,1/13/2023,Spring,BrandA,Clothing,80,3.5,Printed Men Round Neck Black T-Shirt
+792,5/19/2023,Fall,BrandA,Clothing,140,3.5,Printed Men Round Neck Black T-Shirt
+793,2/22/2023,Winter,BrandA,Clothing,80,4,Printed Men Round Neck White T-Shirt
+794,6/27/2023,Summer,BrandB,Clothing,80,4.7,Printed Men Round Neck White T-Shirt
+795,11/8/2023,Spring,BrandC,Clothing,100,4.7,Printed Men Round Neck Black T-Shirt
+796,8/20/2023,Fall,BrandB,Clothing,130,3.5,Printed Men Round Neck White T-Shirt
+797,11/12/2023,Winter,BrandB,Clothing,160,3.5,"Printed Men Round Neck Black, White T-Shirt"
+798,9/2/2023,Summer,BrandA,Clothing,75,4,Printed Men Round Neck Black T-Shirt
+799,4/9/2023,Spring,BrandB,Clothing,90,4.5,Printed Men Round Neck Black T-Shirt
+800,9/28/2023,Fall,BrandC,Clothing,60,4.7,Printed Men Round Neck White T-Shirt
+801,12/23/2023,Winter,BrandA,Clothing,140,4.5,Printed Men Round Neck Black T-Shirt
+802,10/2/2023,Summer,BrandC,Clothing,80,4.7,Printed Men Round Neck Black T-Shirt
+803,10/23/2023,Spring,BrandB,Clothing,160,3.5,Printed Men Round Neck White T-Shirt
+804,2/28/2023,Fall,BrandC,Clothing,150,4.5,Printed Men Round Neck Black T-Shirt
+805,8/28/2023,Winter,BrandA,Clothing,140,4.7,Solid Men Round Neck White T-Shirt
+806,10/7/2023,Summer,BrandB,Clothing,100,4.7,Printed Men Round Neck White T-Shirt
+807,2/10/2023,Spring,BrandC,Clothing,80,3.5,Printed Men Round Neck Black T-Shirt
+808,11/3/2023,Fall,BrandA,Clothing,160,3.5,Printed Men Round Neck Black T-Shirt
+809,8/26/2023,Winter,BrandB,Clothing,140,4,Printed Men Round Neck White T-Shirt
+810,5/18/2023,Summer,BrandC,Clothing,90,3.5,Printed Men Round Neck White T-Shirt
+811,6/13/2023,Spring,BrandA,Clothing,90,4.5,Printed Men Round Neck Black T-Shirt
+812,11/3/2023,Fall,BrandB,Clothing,150,3.5,Printed Men Round Neck Black T-Shirt
+813,5/14/2023,Winter,BrandA,Clothing,140,4,Printed Men Round Neck White T-Shirt
+814,4/1/2023,Summer,BrandB,Clothing,75,4.7,Printed Men Round Neck White T-Shirt
+815,2/5/2023,Spring,BrandA,Clothing,140,3.5,Printed Men Round Neck White T-Shirt
+816,3/30/2023,Fall,BrandB,Clothing,160,4.7,Printed Men Round Neck Black T-Shirt
+817,8/26/2023,Winter,BrandB,Clothing,160,4,Printed Men Round Neck White T-Shirt
+818,9/12/2023,Summer,BrandC,Clothing,130,4,Solid Men Round Neck White T-Shirt
+819,1/30/2023,Spring,BrandA,Clothing,80,3.5,Color Block Men Polo Neck Multicolor T-Shirt
+820,3/27/2023,Fall,BrandB,Clothing,100,4.5,Men Slim Fit Printed Slim Collar Casual Shirt
+821,10/30/2023,Winter,BrandB,Clothing,160,4.5,Slim Men Blue Jeans
+822,4/2/2023,Summer,BrandB,Clothing,140,3.5,Slim Men Blue Jeans
+823,2/23/2023,Spring,BrandB,Clothing,120,4.5,Men Slim Fit Printed Slim Collar Casual Shirt
+824,8/18/2023,Fall,BrandB,Clothing,80,3.5,Men Slim Fit Printed Casual Shirt
+825,5/22/2023,Winter,BrandB,Clothing,100,4.5,Men Slim Fit Printed Slim Collar Casual Shirt
+826,6/12/2023,Summer,BrandA,Clothing,100,4,Men Slim Fit Checkered Slim Collar Casual Shirt
+827,5/29/2023,Spring,BrandC,Clothing,90,4,Printed Men Polo Neck Blue T-Shirt
+828,5/19/2023,Fall,BrandB,Clothing,160,3.5,Men Slim Fit Checkered Slim Collar Casual Shirt
+829,4/5/2023,Winter,BrandC,Clothing,60,4.5,Men Slim Fit Printed Slim Collar Casual Shirt
+830,8/20/2023,Summer,BrandA,Clothing,90,4.7,Striped Men Polo Neck Black T-Shirt
+831,7/20/2023,Spring,BrandA,Clothing,160,3.5,Men Slim Fit Checkered Slim Collar Casual Shirt
+832,7/2/2023,Fall,BrandB,Clothing,60,4,Solid Men Polo Neck Yellow T-Shirt
+833,3/14/2023,Winter,BrandA,Clothing,75,4,Typography Men Round Neck Dark Blue T-Shirt
+834,5/19/2023,Summer,BrandB,Clothing,75,3.5,Men Slim Fit Printed Slim Collar Casual Shirt
+835,10/17/2023,Spring,BrandB,Clothing,160,4,Men Slim Fit Solid Casual Shirt
+836,11/14/2023,Fall,BrandB,Clothing,100,4.7,Men Slim Fit Striped Casual Shirt
+837,12/2/2023,Winter,BrandA,Clothing,60,3.5,Striped Men Polo Neck Multicolor T-Shirt
+838,5/26/2023,Summer,BrandA,Clothing,150,4.5,Solid Men Polo Neck Blue T-Shirt
+839,4/23/2023,Spring,BrandC,Clothing,90,4.7,Men Slim Fit Checkered Slim Collar Casual Shirt
+840,5/17/2023,Fall,BrandB,Clothing,90,4,Striped Men Polo Neck Blue T-Shirt
+841,10/7/2023,Winter,BrandB,Clothing,60,4,Men Slim Fit Striped Slim Collar Casual Shirt
+842,3/11/2023,Summer,BrandA,Clothing,110,4.5,Men Slim Fit Solid Casual Shirt
+843,2/18/2023,Spring,BrandC,Clothing,60,4.7,Slim Men Blue Jeans
+844,2/2/2023,Fall,BrandA,Clothing,160,4.7,Slim Men Blue Jeans
+845,12/13/2023,Winter,BrandB,Clothing,75,4.5,Slim Men Blue Jeans
+846,2/16/2023,Summer,BrandB,Clothing,90,4.5,Printed Men Round Neck Blue T-Shirt
+847,11/6/2023,Spring,BrandC,Clothing,80,3.5,Men Slim Fit Printed Casual Shirt
+848,1/26/2023,Fall,BrandC,Clothing,100,4.5,Solid Men Polo Neck Black T-Shirt
+849,9/10/2023,Winter,BrandC,Clothing,150,4.5,Men Cargos
+850,2/1/2023,Summer,BrandA,Clothing,130,4.5,Solid Men Three Fourths
+851,9/10/2023,Spring,BrandB,Clothing,130,4,Men Cargos
+852,9/23/2023,Fall,BrandC,Clothing,90,4.5,Men Cargos
+853,3/17/2023,Winter,BrandA,Clothing,100,4,Solid Men Three Fourths
+854,7/23/2023,Summer,BrandA,Clothing,110,4.5,Solid Men Grey Track Pants
+855,11/23/2023,Spring,BrandB,Clothing,110,4,Solid Men Black Track Pants
+856,11/17/2023,Fall,BrandB,Clothing,60,3.5,"Solid Men Black, Grey Track Pants"
+857,11/17/2023,Winter,BrandB,Clothing,110,4.5,Solid Men Black Track Pants
+858,4/10/2023,Summer,BrandC,Clothing,140,3.5,Solid Men Blue Track Pants
+859,6/7/2023,Spring,BrandB,Clothing,100,3.5,Solid Men Black Track Pants
+860,9/30/2023,Fall,BrandA,Clothing,60,4,Solid Men Black Track Pants
+861,3/20/2023,Winter,BrandC,Clothing,110,4.5,Solid Men Black Track Pants
+862,6/15/2023,Summer,BrandC,Clothing,130,4.5,Solid Men Black Track Pants
+863,10/21/2023,Spring,BrandC,Clothing,100,4,Solid Men Black Track Pants
+864,5/16/2023,Fall,BrandB,Clothing,100,4.5,Striped Men Black Track Pants
+865,12/15/2023,Winter,BrandA,Clothing,150,4.5,Solid Men Blue Track Pants
+866,4/25/2023,Summer,BrandC,Clothing,120,3.5,Solid Men Blue Track Pants
+867,8/28/2023,Spring,BrandC,Clothing,120,4.7,Solid Men Multicolor Track Pants
+868,7/13/2023,Fall,BrandB,Clothing,75,4.5,Solid Men Grey Track Pants
+869,1/26/2023,Winter,BrandC,Clothing,150,4.7,Solid Men Blue Track Pants
+870,2/6/2023,Summer,BrandA,Clothing,90,4,Solid Men Blue Track Pants
+871,9/11/2023,Spring,BrandB,Clothing,90,4.7,Solid Men Multicolor Track Pants
+872,7/5/2023,Fall,BrandA,Clothing,60,4,Striped Men Blue Track Pants
+873,1/20/2023,Winter,BrandB,Clothing,160,3.5,Self Design Men Black Track Pants
+874,3/23/2023,Summer,BrandA,Clothing,150,4.5,Men Brief  (Pack of 5)
+875,11/21/2023,Spring,BrandB,Clothing,75,4.7,Men Brief  (Pack of 5)
+876,10/22/2023,Fall,BrandC,Clothing,110,4.7,Printed Men Round Neck Black T-Shirt
+877,7/14/2023,Winter,BrandB,Clothing,110,4.7,Printed Men Round Neck Grey T-Shirt
+878,6/13/2023,Summer,BrandB,Clothing,160,4.5,Printed Men Round Neck Red T-Shirt
+879,10/8/2023,Spring,BrandC,Clothing,140,3.5,Full Sleeve Solid Men Leather Jacket
+880,7/15/2023,Fall,BrandA,Clothing,100,4,Regular Men Black Jeans
+881,2/19/2023,Winter,BrandC,Clothing,80,4.5,short_sleeve Solid Men Sports Jacket
+882,11/8/2023,Summer,BrandB,Clothing,80,3.5,short_sleeve Solid Men Sports Jacket
+883,6/6/2023,Spring,BrandA,Clothing,100,4,Full Sleeve Solid Men Leather Jacket
+884,5/23/2023,Fall,BrandA,Clothing,100,4.7,Full Sleeve Solid Men Leather Jacket
+885,9/29/2023,Winter,BrandC,Clothing,160,4.7,Regular Men Blue Jeans
+886,9/18/2023,Summer,BrandC,Clothing,130,4.7,short_sleeve Solid Men Sports Jacket
+887,1/25/2023,Spring,BrandA,Clothing,150,4.5,Full Sleeve Washed Men Denim Jacket
+888,7/5/2023,Fall,BrandB,Clothing,140,4.7,Full Sleeve Printed Men Jacket
+889,7/5/2023,Winter,BrandC,Clothing,130,4,short_sleeve Solid Men Sports Jacket
+890,2/12/2023,Summer,BrandB,Clothing,80,4,Full Sleeve Solid Men Leather Jacket
+891,9/19/2023,Spring,BrandC,Clothing,90,4.5,Regular Men Blue Jeans
+892,2/19/2023,Fall,BrandA,Clothing,90,3.5,Full Sleeve Printed Men Casual Jacket
+893,2/20/2023,Winter,BrandA,Clothing,150,3.5,Regular Men Blue Jeans
+894,2/7/2023,Summer,BrandA,Clothing,160,4,Full Sleeve Solid Men Leather Jacket
+895,1/13/2023,Spring,BrandC,Clothing,160,4.5,Regular Men Black Jeans
+896,5/15/2023,Fall,BrandC,Clothing,160,4.7,Full Sleeve Solid Men Leather Jacket
+897,1/28/2023,Winter,BrandB,Clothing,100,3.5,Regular Men Dark Blue Jeans
+898,2/6/2023,Summer,BrandA,Clothing,150,4.7,Full Sleeve Washed Men Denim Jacket
+899,3/14/2023,Spring,BrandC,Clothing,60,4.7,Full Sleeve Solid Men Leather Jacket
+900,5/18/2023,Fall,BrandB,Clothing,140,4.5,Regular Men Black Jeans
+901,5/2/2023,Winter,BrandB,Clothing,80,4.5,Regular Men Blue Jeans
+902,11/4/2023,Summer,BrandB,Clothing,130,4,Full Sleeve Solid Men Leather Jacket
+903,8/20/2023,Spring,BrandB,Clothing,75,4.5,Full Sleeve Printed Men Casual Jacket
+904,11/12/2023,Fall,BrandC,Clothing,150,4,Full Sleeve Solid Men Leather Jacket
+905,12/28/2023,Winter,BrandB,Clothing,160,4,Full Sleeve Solid Men Leather Jacket
+906,2/11/2023,Summer,BrandC,Clothing,60,4.5,Full Sleeve Printed Men Casual Jacket
+907,5/16/2023,Spring,BrandB,Clothing,120,4.7,Full Sleeve Printed Men Casual Jacket
+908,11/5/2023,Fall,BrandC,Clothing,75,4.7,Full Sleeve Solid Men Leather Jacket
+909,8/28/2023,Winter,BrandC,Clothing,110,4.5,Printed Men Polo Neck Dark Blue T-Shirt
+910,3/6/2023,Summer,BrandB,Clothing,100,3.5,"Color Block Men Hooded Neck Red, Black T-Shirt"
+911,11/2/2023,Spring,BrandA,Clothing,160,4.5,Printed Men Round Neck White T-Shirt
+912,1/9/2023,Fall,BrandA,Clothing,120,4,Solid Men Polo Neck Dark Green T-Shirt
+913,10/12/2023,Winter,BrandA,Clothing,100,3.5,"Color Block Men Hooded Neck Maroon, Black T-Shirt"
+914,5/25/2023,Summer,BrandA,Clothing,120,4.7,Solid Men Round Neck Dark Blue T-Shirt
+915,9/14/2023,Spring,BrandB,Clothing,120,3.5,Printed Men Round Neck Black T-Shirt
+916,7/8/2023,Fall,BrandB,Clothing,75,3.5,"Printed Men Round or Crew White, Blue T-Shirt"
+917,7/27/2023,Winter,BrandB,Clothing,160,4.5,Solid Men Polo Neck Light Green T-Shirt
+918,10/6/2023,Summer,BrandC,Clothing,160,4.7,Printed Men Round Neck Red T-Shirt
+919,9/3/2023,Spring,BrandB,Clothing,160,4.7,Printed Men Round Neck Light Blue T-Shirt
+920,11/4/2023,Fall,BrandA,Clothing,140,3.5,Solid Men Polo Neck Maroon T-Shirt
+921,1/23/2023,Winter,BrandA,Clothing,60,3.5,Graphic Print Men Round Neck Maroon T-Shirt
+922,12/27/2023,Summer,BrandC,Clothing,90,3.5,Printed Men Round Neck Dark Blue T-Shirt
+923,12/21/2023,Spring,BrandC,Clothing,90,4.5,Solid Men Collared Neck Green T-Shirt
+924,12/19/2023,Fall,BrandC,Clothing,140,4.5,Color Block Men Round Neck Multicolor T-Shirt
+925,4/7/2023,Winter,BrandC,Clothing,100,4,"Color Block Men Hooded Neck Black, Red T-Shirt"
+926,2/11/2023,Summer,BrandC,Clothing,60,4.7,Color Block Men Round Neck Multicolor T-Shirt
+927,5/31/2023,Spring,BrandC,Clothing,90,4.5,"Color Block Men Hooded Neck Maroon, Black T-Shirt"
+928,11/23/2023,Fall,BrandC,Clothing,100,4,Printed Men Round Neck Light Green T-Shirt
+929,1/15/2023,Winter,BrandC,Clothing,75,3.5,Printed Men Round or Crew Orange T-Shirt
+930,10/10/2023,Summer,BrandB,Clothing,100,3.5,"Color Block Men Hooded Neck Maroon, Black T-Shirt"
+931,5/13/2023,Spring,BrandC,Clothing,75,3.5,Solid Men Round Neck White T-Shirt
+932,10/5/2023,Fall,BrandB,Clothing,80,4.7,Printed Men Round Neck Light Blue T-Shirt
+933,7/31/2023,Winter,BrandB,Clothing,130,4,Solid Men Round Neck Grey T-Shirt
+934,6/10/2023,Summer,BrandB,Clothing,160,4.5,Printed Men Round Neck Blue T-Shirt
+935,4/25/2023,Spring,BrandA,Clothing,110,3.5,Printed Men Round Neck Dark Green T-Shirt
+936,1/25/2023,Fall,BrandB,Clothing,120,4.5,"Color Block Men Hooded Neck Maroon, Black T-Shirt"
+937,8/24/2023,Winter,BrandC,Clothing,75,4.7,"Color Block Men Hooded Neck Grey, Black T-Shirt"
+938,2/14/2023,Summer,BrandB,Clothing,80,4.5,Solid Men Collared Neck Maroon T-Shirt
+939,7/5/2023,Spring,BrandC,Clothing,80,4,Men Brief  (Pack of 2)
+940,3/14/2023,Fall,BrandA,Clothing,120,3.5,Men Brief  (Pack of 2)
+941,1/18/2023,Winter,BrandB,Clothing,120,4.7,Men Brief  (Pack of 2)
+942,7/15/2023,Summer,BrandB,Clothing,75,3.5,Men Brief  (Pack of 2)
+943,6/2/2023,Spring,BrandC,Clothing,160,4,Men Brief  (Pack of 2)
+944,7/23/2023,Fall,BrandB,Clothing,160,4,Men Brief  (Pack of 2)
+945,6/7/2023,Winter,BrandB,Clothing,140,4.7,Men Brief  (Pack of 2)
+946,6/20/2023,Summer,BrandA,Clothing,120,4,Men Brief  (Pack of 3)
+947,10/19/2023,Spring,BrandC,Clothing,120,3.5,Men Brief  (Pack of 2)
+948,11/21/2023,Fall,BrandC,Clothing,100,4.7,Men Brief  (Pack of 2)
+949,7/30/2023,Winter,BrandB,Clothing,75,4,Men Solid Low Cut  (Pack of 10)
+950,10/31/2023,Summer,BrandB,Clothing,120,4,Solid Evening Men Gloves
+951,5/31/2023,Spring,BrandB,Clothing,150,4,Men Solid Mid-Calf/Crew  (Pack of 3)
+952,5/13/2023,Fall,BrandB,Clothing,80,4.5,Men Argyle Mid-Calf/Crew  (Pack of 4)
+953,10/5/2023,Winter,BrandB,Clothing,75,4,Men Argyle Mid-Calf/Crew  (Pack of 3)
+954,6/11/2023,Summer,BrandA,Clothing,160,4.7,Men Printed Ankle Length  (Pack of 4)
+955,4/2/2023,Spring,BrandA,Clothing,100,4.5,Men Solid Mid-Calf/Crew
+956,7/24/2023,Fall,BrandA,Clothing,120,3.5,Men Solid Ankle Length  (Pack of 5)
+957,9/13/2023,Winter,BrandA,Clothing,150,4.7,Men Solid Ankle Length  (Pack of 6)
+958,2/14/2023,Summer,BrandC,Clothing,120,3.5,Men Solid Ankle Length  (Pack of 5)
+959,6/10/2023,Spring,BrandC,Clothing,90,4.5,Men Solid Low Cut  (Pack of 5)
+960,6/8/2023,Fall,BrandB,Clothing,130,3.5,Solid Evening Men Gloves
+961,8/8/2023,Winter,BrandA,Clothing,75,4.7,Men Solid Ankle Length  (Pack of 10)
+962,4/13/2023,Summer,BrandC,Clothing,110,3.5,Solid Protective Men Gloves
+963,1/26/2023,Spring,BrandB,Clothing,110,3.5,Men Solid Mid-Calf/Crew  (Pack of 6)
+964,11/15/2023,Fall,BrandC,Clothing,90,4.5,Men Argyle Mid-Calf/Crew  (Pack of 4)
+965,9/30/2023,Winter,BrandA,Clothing,110,4.7,Men Solid Low Cut  (Pack of 5)
+966,5/6/2023,Summer,BrandC,Clothing,150,4,Men Peds/Footie/No-Show  (Pack of 3)
+967,10/19/2023,Spring,BrandC,Clothing,110,4.7,Men Solid Calf Length  (Pack of 5)
+968,1/12/2023,Fall,BrandC,Clothing,110,4.5,Solid Evening Men Gloves
+969,1/4/2023,Winter,BrandB,Clothing,140,4.5,Men Solid Ankle Length  (Pack of 9)
+970,8/11/2023,Summer,BrandB,Clothing,160,4.7,Men Solid Low Cut  (Pack of 9)
+971,8/24/2023,Spring,BrandB,Clothing,130,4,Solid Evening Men Gloves
+972,2/3/2023,Fall,BrandA,Clothing,140,4.7,Men Solid Mid-Calf/Crew  (Pack of 4)
+973,5/29/2023,Winter,BrandA,Clothing,75,4.7,Men Solid Mid-Calf/Crew  (Pack of 3)
+974,11/28/2023,Summer,BrandB,Clothing,80,4,Men Peds/Footie/No-Show  (Pack of 8)
+975,1/22/2023,Spring,BrandC,Clothing,80,3.5,Solid Protective Men Gloves
+976,9/1/2023,Fall,BrandB,Clothing,160,4.7,Men Solid Ankle Length  (Pack of 4)
+977,8/4/2023,Winter,BrandA,Clothing,160,4,Men Solid Ankle Length  (Pack of 6)
+978,6/16/2023,Summer,BrandC,Clothing,160,3.5,Men Self Design Peds/Footie/No-Show  (Pack of 12)
+979,7/20/2023,Spring,BrandB,Clothing,90,4,Men Low Cut  (Pack of 3)
+980,9/11/2023,Fall,BrandB,Clothing,75,4.7,Men Low Cut  (Pack of 2)
+981,10/25/2023,Winter,BrandA,Clothing,110,4.7,Men Low Cut
+982,11/9/2023,Summer,BrandA,Clothing,60,4,Men Low Cut  (Pack of 2)
+983,1/21/2023,Spring,BrandC,Clothing,120,3.5,Men Low Cut
+984,6/29/2023,Fall,BrandB,Clothing,100,4.7,Men Low Cut  (Pack of 2)
+985,5/18/2023,Winter,BrandA,Clothing,60,3.5,Men Low Cut
+986,1/14/2023,Summer,BrandC,Clothing,100,4.7,Solid Men Round Neck Pink T-Shirt
+987,12/27/2023,Spring,BrandA,Clothing,60,4.7,Solid Men Round Neck White T-Shirt
+988,3/13/2023,Fall,BrandA,Clothing,130,4.7,Men Regular Fit Printed Casual Shirt
+989,1/9/2023,Winter,BrandA,Clothing,120,4.5,Solid Men Polo Neck Orange T-Shirt
+990,5/29/2023,Summer,BrandB,Clothing,130,4.5,Regular Fit Men Cream Cotton Blend Trousers
+991,1/31/2023,Spring,BrandC,Clothing,110,3.5,Solid Men Polo Neck Grey T-Shirt
+992,11/23/2023,Fall,BrandB,Clothing,110,3.5,Men Regular Fit Printed Tie up Collar Casual Shirt
+993,11/5/2023,Winter,BrandA,Clothing,110,4.7,Men Regular Fit Checkered Casual Shirt
+994,10/4/2023,Summer,BrandA,Clothing,100,4,Men Regular Fit Printed Casual Shirt
+995,4/26/2023,Spring,BrandA,Clothing,130,4.5,Men Regular Fit Floral Print Spread Collar Casual Shirt
+996,6/25/2023,Fall,BrandC,Clothing,75,3.5,Regular Fit Men Black Cotton Blend Trousers
+997,1/29/2023,Winter,BrandA,Clothing,60,3.5,Printed Men Polo Neck Light Blue T-Shirt
+998,7/3/2023,Summer,BrandA,Clothing,130,4,Regular Fit Men White Cotton Blend Trousers
+999,6/17/2023,Spring,BrandC,Clothing,130,4.5,Printed Men Polo Neck Blue T-Shirt
+1000,6/9/2023,Fall,BrandC,Clothing,120,4.7,Men Regular Fit Printed Casual Shirt
